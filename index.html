@@ -24,7 +24,7 @@
                 <div class="home-para-cont">
                     <h1>Get Ranking Of College And Cut Off Details</h1>
                     <p>We have provided the data of Top 30 colleges in Tamil nadu for engineering counselling</p>
-                    <input type="button" value="SEARCH FOR COLLEGE !">
+                    <a href="#college-search"><button> <span>Search For College</span></button></a>   
                 </div>
             </div>
         </div>
@@ -34,10 +34,11 @@
 
     <!-- display details part -->
 
-    <section class="pro-top-box">
+    <section class="pro-top-box" id="college-search">
         <div class="pro-search-area">
             <div class="search-values">
                 <select name="tnea-code" id="tnea-code">
+                    <option value="0">Show the Code</option>
                     <option value="0" data-rc="1">1</option>
                     <option value="0" data-rc="4">4</option>
                     <option value="0" data-rc="1315">1315</option>
@@ -71,9 +72,13 @@
                 </select>
                 <input type="text" id="college-name-display" readonly>
             </div>
+            <div class="search-div-btn">
+                <button type="submit" class="search-btn" id="search-btn">Search</button>
+            </div>
+            
         </div>
 
-        <div class="search-table-data">
+        <div class="search-table-data"> 
             <div class="search-table-inner-cont" id="table-data">
                 <table id="table-child-append">
                     <thead>
@@ -84,6 +89,7 @@
                             <th>OC</th>
                             <th>BC</th>
                             <th>BCM</th>
+                            <th>MBC</th>
                             <th>MBCDNC</th>
                             <th>MBCV</th>
                             <th>SC</th>
@@ -91,7 +97,7 @@
                             <th>ST</th>
                         </tr>
                     </thead>
-                    <tbody>
+                    <tbody id="table_body">
 
                     </tbody>
                 </table>

@@ -6,225 +6,225 @@ const TNEA = {
         "courses":
             [
                 {
-                    "Branch-code":"BY",
-                    "Branch Name":"BIO MEDICAL ENGINEERING (SS)",
+                    "Branchcode":"BY",
+                    "BranchName":"BIO MEDICAL ENGINEERING (SS)",
                     "OC":"196",
                     "BC":"193",
                     "BCM":"194.5",
                     "MBC":"192",
-                    "MBCDNC":"",
-                    "MBCV":"",
+                    "MBCDNC":"-",
+                    "MBCV":"-",
                     "SC":"186.185",
                     "SCA":"178.405",
                     "ST":"193.725"
                 },
                 {
-                    "Branch-code":"CE",
-                    "Branch Name":"CIVIL ENGINEERING",
+                    "Branchcode":"CE",
+                    "BranchName":"CIVIL ENGINEERING",
                     "OC":"193.5",
                     "BC":"191.5",
                     "BCM":"186.755",
                     "MBC":"189",
-                    "MBCDNC":"",
-                    "MBCV":"",
+                    "MBCDNC":"-",
+                    "MBCV":"-",
                     "SC":"183.5",
                     "SCA":"174",
-                    "ST":""
+                    "ST":"-"
                 },
                 {
-                    "Branch-code":"CM",
-                    "Branch Name":"COMPUTER SCIENCE AND ENGINEERING (SS)",
+                    "Branchcode":"CM",
+                    "BranchName":"COMPUTER SCIENCE AND ENGINEERING (SS)",
                     "OC":"199.5",
                     "BC":"199.5",
                     "BCM":"198",
                     "MBC":"198.5",
-                    "MBCDNC":"",
-                    "MBCV":"",
+                    "MBCDNC":"-",
+                    "MBCV":"-",
                     "SC":"194.5",
                     "SCA":"189.5",
                     "ST":"189"
                 },
                 {
-                    "Branch-code":"CS",
-                    "Branch Name":"COMPUTER SCIENCE AND ENGINEERING",
+                    "Branchcode":"CS",
+                    "BranchName":"COMPUTER SCIENCE AND ENGINEERING",
                     "OC":"200",
-                    "BC":"	200",
+                    "BC":"200",
                     "BCM":"199",
                     "MBC":"	199.33",
-                    "MBCDNC":"",
-                    "MBCV":"",
+                    "MBCDNC":"-",
+                    "MBCV":"-",
                     "SC":"197.5	",
                     "SCA":"197.5",
-                    "ST":""
+                    "ST":"-"
                 },
                 {
-                    "Branch-code":"EC",
-                    "Branch Name":"ELECTRONICS AND COMMUNICATION ENGINEERING",
+                    "Branchcode":"EC",
+                    "BranchName":"ELECTRONICS AND COMMUNICATION ENGINEERING",
                     "OC":"199.5",
                     "BC":"199",
                     "BCM":"198",
                     "MBC":"198",
-                    "MBCDNC":"",
-                    "MBCV":"",
+                    "MBCDNC":"-",
+                    "MBCV":"-",
                     "SC":"194",
                     "SCA":"185",
-                    "ST":""
+                    "ST":"-"
                 },
                 {
-                    "Branch-code":"EE",
-                    "Branch Name":"ELECTRICAL AND ELECTRONICS ENGINEERING",
+                    "Branchcode":"EE",
+                    "BranchName":"ELECTRICAL AND ELECTRONICS ENGINEERING",
                     "OC":"197.5",
                     "BC":"197",
                     "BCM":"194.5",
                     "MBC":"195.5",
-                    "MBCDNC":"",
-                    "MBCV":"",
+                    "MBCDNC":"-",
+                    "MBCV":"-",
                     "SC":"189.5",
                     "SCA":"181.855",
-                    "ST":""
+                    "ST":"-"
                 },
                 {
-                    "Branch-code":"EM",
-                    "Branch Name":"ELECTRONICS AND COMMUNICATION ENGINEERING (SS)",
+                    "Branchcode":"EM",
+                    "BranchName":"ELECTRONICS AND COMMUNICATION ENGINEERING (SS)",
                     "OC":"198.5",
                     "BC":"198.5",
                     "BCM":"196",
                     "MBC":"196.5",
-                    "MBCDNC":"",
-                    "MBCV":"",
+                    "MBCDNC":"-",
+                    "MBCV":"-",
                     "SC":"191",
-                    "SCA":"",
+                    "SCA":"-",
                     "ST":"187.5"
                 },
                 {
-                    "Branch-code":"GI",
-                    "Branch Name":"GEO INFORMATICS",
+                    "Branchcode":"GI",
+                    "BranchName":"GEO INFORMATICS",
                     "OC":"193",
                     "BC":"190",
                     "BCM":"188.5",
                     "MBC":"189.5",
-                    "MBCDNC":"",
-                    "MBCV":"",
+                    "MBCDNC":"-",
+                    "MBCV":"-",
                     "SC":"177.5",
                     "SCA":"180.715",
-                    "ST":""
+                    "ST":"-"
                 },
                 {
-                    "Branch-code":"IE",
-                    "Branch Name":"INDUSTRIAL ENGINEERING",
+                    "Branchcode":"IE",
+                    "BranchName":"INDUSTRIAL ENGINEERING",
                     "OC":"191.5",
                     "BC":"188",
                     "BCM":"182.5",
                     "MBC":"185",
-                    "MBCDNC":"",
-                    "MBCV":"",
+                    "MBCDNC":"-",
+                    "MBCV":"-",
                     "SC":"175",
                     "SCA":"184.5",
                     "ST":"161.5"
                 },
                 {
-                    "Branch-code":"IM",
-                    "Branch Name":"INFORMATION TECHNOLOGY (SS)",
+                    "Branchcode":"IM",
+                    "BranchName":"INFORMATION TECHNOLOGY (SS)",
                     "OC":"199",
                     "BC":"198.5",
                     "BCM":"197.5",
                     "MBC":"196.5",
-                    "MBCDNC":"",
-                    "MBCV":"",
+                    "MBCDNC":"-",
+                    "MBCV":"-",
                     "SC":"192",
                     "SCA":"187.5",
                     "ST":"185"
                 },
                 {
-                    "Branch-code":"MA",
-                    "Branch Name":"MATERIAL SCIENCE AND ENGINEERING (SS)",
+                    "Branchcode":"MA",
+                    "BranchName":"MATERIAL SCIENCE AND ENGINEERING (SS)",
                     "OC":"191.5",
                     "BC":"188",
                     "BCM":"185",
                     "MBC":"187.5",
-                    "MBCDNC":"",
-                    "MBCV":"",
+                    "MBCDNC":"-",
+                    "MBCV":"-",
                     "SC":"173.5",
                     "SCA":"171",
-                    "ST":""
+                    "ST":"-"
                 },
                 {
-                    "Branch-code":"ME",
-                    "Branch Name":"MECHANICAL ENGINEERING",
+                    "Branchcode":"ME",
+                    "BranchName":"MECHANICAL ENGINEERING",
                     "OC":"195.35",
                     "BC":"193",
                     "BCM":"191.5",
                     "MBC":"190",
-                    "MBCDNC":"",
-                    "MBCV":"",
+                    "MBCDNC":"-",
+                    "MBCV":"-",
                     "SC":"185",
                     "SCA":"184.5",
                     "ST":"160.37"
                 },
                 {
-                    "Branch-code":"MI",
-                    "Branch Name":"MINING ENGINEERING",
+                    "Branchcode":"MI",
+                    "BranchName":"MINING ENGINEERING",
                     "OC":"189.615",
                     "BC":"182.67",
                     "BCM":"182.41",
                     "MBC":"179.66",
-                    "MBCDNC":"",
-                    "MBCV":"",
+                    "MBCDNC":"-",
+                    "MBCV":"-",
                     "SC":"174.5",
                     "SCA":"159.5",
                     "ST":"130"
                 },
                 {
-                    "Branch-code":"MN",
-                    "Branch Name":"MANUFACTURING ENGINEERING",
-                    "OC":"",
+                    "Branchcode":"MN",
+                    "BranchName":"MANUFACTURING ENGINEERING",
+                    "OC":"-",
                     "BC":"185.95",
                     "BCM":"186.5",
                     "MBC":" 182.5",
-                    "MBCDNC":"",
-                    "MBCV":"",
+                    "MBCDNC":"-",
+                    "MBCV":"-",
                     "SC":"177",
                     "SCA":"155.5",
-                    "ST":""
+                    "ST":"-"
                 },
                 {
-                    "Branch-code":"PT",
-                    "Branch Name":"PRINTING AND PACKING TECHNOLOGY",
+                    "Branchcode":"PT",
+                    "BranchName":"PRINTING AND PACKING TECHNOLOGY",
                     "OC":"186.5",
                     "BC":"178.505",
                     "BCM":"186.5",
                     "MBC":"178",
-                    "MBCDNC":"",
-                    "MBCV":"",
+                    "MBCDNC":"-",
+                    "MBCV":"-",
                     "SC":"171.515",
                     "SCA":"139",
-                    "ST":""
+                    "ST":"-"
                 },
                 {
-                    "Branch-code":"XC",
-                    "Branch Name":"CIVIL ENGINEERING (TAMIL MEDIUM)",
+                    "Branchcode":"XC",
+                    "BranchName":"CIVIL ENGINEERING (TAMIL MEDIUM)",
                     "OC":"181",
                     "BC":"173",
                     "BCM":"137",
                     "MBC":"167",
-                    "MBCDNC":"",
-                    "MBCV":"",
+                    "MBCDNC":"-",
+                    "MBCV":"-",
                     "SC":"171",
                     "SCA":"103",
-                    "ST":""
+                    "ST":"-"
                 },
                 {
-                    "Branch-code":"XM",
-                    "Branch Name":"MECHANICAL ENGINEERING (TAMIL MEDIUM)",
+                    "Branchcode":"XM",
+                    "BranchName":"MECHANICAL ENGINEERING (TAMIL MEDIUM)",
                     "OC":"185.5",
                     "BC":"175.5",
                     "BCM":"181.5",
                     "MBC":"171",
-                    "MBCDNC":"",
-                    "MBCV":"",
-                    "SC":"",
+                    "MBCDNC":"-",
+                    "MBCV":"-",
+                    "SC":"-",
                     "SCA":"138",
-                    "ST":""
+                    "ST":"-"
                 }
             ]
     },
@@ -235,158 +235,158 @@ const TNEA = {
         "rank":"2",
         "courses":[
             {
-                "Branch-code":"AE",
-                "Branch Name":"AERONAUTICAL ENGINEERING",
+                "Branchcode":"AE",
+                "BranchName":"AERONAUTICAL ENGINEERING",
                 "OC":"194.5",
                 "BC":"193",
                 "BCM":"192",
                 "MBC":"190",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"187.5",
                 "SCA":"172.975",
-                "ST":""
+                "ST":"-"
             },
             {
-                "Branch-code":"AT",
-                "Branch Name":"ARTIFICIAL INTELLIGENCE AND DATA SCIENCE (SS)",
+                "Branchcode":"AT",
+                "BranchName":"ARTIFICIAL INTELLIGENCE AND DATA SCIENCE (SS)",
                 "OC":"197.5",
                 "BC":"197",
                 "BCM":"196",
                 "MBC":"196",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"189",
                 "SCA":"176",
-                "ST":""
+                "ST":"-"
             },
             {
-                "Branch-code":"AT",
-                "Branch Name":"AUTOMOBILE ENGINEERING",
+                "Branchcode":"AT",
+                "BranchName":"AUTOMOBILE ENGINEERING",
                 "OC":"191.5",
                 "BC":"187",
                 "BCM":"180",
                 "MBC":"185.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"172.5",
                 "SCA":"165",
-                "ST":""
+                "ST":"-"
             },
             {
-                "Branch-code":"AT",
-                "Branch Name":"COMPUTER SCIENCE AND ENGINEERING (SS)",
+                "Branchcode":"AT",
+                "BranchName":"COMPUTER SCIENCE AND ENGINEERING (SS)",
                 "OC":"198.5",
                 "BC":"198",
                 "BCM":"197",
                 "MBC":"197",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"191",
                 "SCA":"182.295",
-                "ST":""
+                "ST":"-"
             },
             {
-                "Branch-code":"CS",
-                "Branch Name":"COMPUTER SCIENCE AND ENGINEERING",
+                "Branchcode":"CS",
+                "BranchName":"COMPUTER SCIENCE AND ENGINEERING",
                 "OC":"199",
                 "BC":"198.5",
                 "BCM":"197",
                 "MBC":"197",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"193",
                 "SCA":"184.5",
-                "ST":""
+                "ST":"-"
             },
             {
-                "Branch-code":"EC",
-                "Branch Name":"ELECTRONICS AND COMMUNICATION ENGINEERING",
+                "Branchcode":"EC",
+                "BranchName":"ELECTRONICS AND COMMUNICATION ENGINEERING",
                 "OC":"198",
                 "BC":"197.5",
                 "BCM":"195",
                 "MBC":"196.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"190.5",
                 "SCA":"178",
                 "ST":"177.57"
             },
             {
-                "Branch-code":"EI",
-                "Branch Name":"ELECTRONICS AND INSTRUMENTATION ENGINEERING",
+                "Branchcode":"EI",
+                "BranchName":"ELECTRONICS AND INSTRUMENTATION ENGINEERING",
                 "OC":"196.5",
                 "BC":"195.5",
                 "BCM":"191.5",
                 "MBC":"192.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"183.5",
-                "SCA":"",
+                "SCA":"-",
                 "ST":"172.295"
             },
             {
-                "Branch-code":"EM",
-                "Branch Name":"ELECTRONICS AND COMMUNICATION ENGINEERING (SS)",
+                "Branchcode":"EM",
+                "BranchName":"ELECTRONICS AND COMMUNICATION ENGINEERING (SS)",
                 "OC":"197.5",
                 "BC":"197",
                 "BCM":"196",
                 "MBC":"195.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"189",
                 "SCA":"180",
                 "ST":"186.5"
             },
               
             {
-                "Branch-code":"IM",
-                "Branch Name":"INFORMATION TECHNOLOGY (SS)",
+                "Branchcode":"IM",
+                "BranchName":"INFORMATION TECHNOLOGY (SS)",
                 "OC":"198",
                 "BC":"197.5",
                 "BCM":"196",
                 "MBC":"195.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"187.5",
                 "SCA":"181",
                 "ST":"183.5"
             },
             {
-                "Branch-code":"IM",
-                "Branch Name":"PRODUCTION ENGINEERING",
+                "Branchcode":"IM",
+                "BranchName":"PRODUCTION ENGINEERING",
                 "OC":"189",
                 "BC":"184.5",
                 "BCM":"184",
                 "MBC":"181.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"172",
                 "SCA":"164",
                 "ST":"168"
             },
             {
-                "Branch-code":"RA",
-                "Branch Name":"ROBOTICS AND AUTOMATION (SS)",
+                "Branchcode":"RA",
+                "BranchName":"ROBOTICS AND AUTOMATION (SS)",
                 "OC":"196",
                 "BC":"195",
                 "BCM":"193",
                 "MBC":"193",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"185",
                 "SCA":"185",
-                "ST":""
+                "ST":"-"
             },
             {
-                "Branch-code":"RP",
-                "Branch Name":"RUBBER AND PLASTIC TECHNOLOGY",
+                "Branchcode":"RP",
+                "BranchName":"RUBBER AND PLASTIC TECHNOLOGY",
                 "OC":"181.615",
                 "BC":"171",
                 "BCM":"179",
                 "MBC":"169.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"157",
                 "SCA":"156.845",
                 "ST":"150"
@@ -399,108 +399,108 @@ const TNEA = {
         "rank":"3",
         "courses":[
             {
-                "Branch-code":"BM",
-                "Branch Name":"BIO MEDICAL ENGINEERING",
+                "Branchcode":"BM",
+                "BranchName":"BIO MEDICAL ENGINEERING",
                 "OC":"181.615",
                 "BC":"191.87",
                 "BCM":"193",
                 "MBC":"189",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"176",
                 "SCA":"121",
-                "ST":""
+                "ST":"-"
             },
             {
-                "Branch-code":"CE",
-                "Branch Name":"CIVIL ENGINEERING",
+                "Branchcode":"CE",
+                "BranchName":"CIVIL ENGINEERING",
                 "OC":"188.295",
                 "BC":"185",
                 "BCM":"181.5",
                 "MBC":"180.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"169",
                 "SCA":"154.5",
-                "ST":""
+                "ST":"-"
             },
             {
-                "Branch-code":"CH",
-                "Branch Name":"CHEMICAL ENGINEERING",
+                "Branchcode":"CH",
+                "BranchName":"CHEMICAL ENGINEERING",
                 "OC":"190",
                 "BC":"188.72",
                 "BCM":"186",
                 "MBC":"184.615",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"165.5",
                 "SCA":"155",
-                "ST":""
+                "ST":"-"
             },
             {
-                "Branch-code":"CS",
-                "Branch Name":"COMPUTER SCIENCE AND ENGINEERING",
+                "Branchcode":"CS",
+                "BranchName":"COMPUTER SCIENCE AND ENGINEERING",
                 "OC":"198.5",
                 "BC":"198",
                 "BCM":"196.5",
                 "MBC":"195.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"187.5",
                 "SCA":"173.5",
                 "ST":"185"
             },
             {
-                "Branch-code":"ES",
-                "Branch Name":"ELECTRONICS AND COMMUNICATION ENGINEERING",
+                "Branchcode":"ES",
+                "BranchName":"ELECTRONICS AND COMMUNICATION ENGINEERING",
                 "OC":"197",
                 "BC":"196.5",
                 "BCM":"195.5",
                 "MBC":"194",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"185",
                 "SCA":"174",
                 "ST":"176"
             },
             {
-                "Branch-code":"EE",
-                "Branch Name":"ELECTRICAL AND ELECTRONICS ENGINEERING",
+                "Branchcode":"EE",
+                "BranchName":"ELECTRICAL AND ELECTRONICS ENGINEERING",
                 "OC":"195.5",
                 "BC":"195",
                 "BCM":"192.5",
                 "MBC":"191.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"179.5",
                 "SCA":"158.5",
                 "ST":"174.5"
             },
             {
-                "Branch-code":"IT",
-                "Branch Name":"INFORMATION TECHNOLOGY",
+                "Branchcode":"IT",
+                "BranchName":"INFORMATION TECHNOLOGY",
                 "OC":"197.5",
                 "BC":"197",
                 "BCM":"195.5",
                 "MBC":"194",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"186",
                 "SCA":"171.5",
                 "ST":"166"
             },
             {
-                "Branch-code":"ME",
-                "Branch Name":"MECHANICAL ENGINEERING",
+                "Branchcode":"ME",
+                "BranchName":"MECHANICAL ENGINEERING",
                 "OC":"192",
                 "BC":"190",
                 "BCM":"188",
                 "MBC":"187",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"171",
                 "SCA":"150",
-                "ST":""
+                "ST":"-"
             },
         ]
     },
@@ -510,17 +510,17 @@ const TNEA = {
         "rank":"4",
         "courses":[
             {
-                "Branch-code":"CC",
-                "Branch Name":"CHEMICAL AND ELECTRO CHEMICAL ENGINEERING (SS)",
+                "Branchcode":"CC",
+                "BranchName":"CHEMICAL AND ELECTRO CHEMICAL ENGINEERING (SS)",
                 "OC":"194.5",
                 "BC":"193.5",
                 "BCM":"192.5",
                 "MBC":"188",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"173.5",
                 "SCA":"161.5",
-                "ST":""
+                "ST":"-"
             }
         ]
       
@@ -531,329 +531,329 @@ const TNEA = {
         "rank":"5",
         "courses":[
             {
-                "Branch-code":"AS",
-                "Branch Name":"AERONAUTICAL ENGINEERING (SS)",
+                "Branchcode":"AS",
+                "BranchName":"AERONAUTICAL ENGINEERING (SS)",
                 "OC":"183.5",
                 "BC":"178.325",
                 "BCM":"171.5",
                 "MBC":"171.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"145.5",
                 "SCA":"131.5",
-                "ST":""
+                "ST":"-"
             },
             {
-                "Branch-code":"BS",
-                "Branch Name":"BIO TECHNOLOGY (SS)",
+                "Branchcode":"BS",
+                "BranchName":"BIO TECHNOLOGY (SS)",
                 "OC":"193",
                 "BC":"191",
                 "BCM":"184.81",
                 "MBC":"189",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"170.5",
                 "SCA":"172.5",
-                "ST":""
+                "ST":"-"
             },
             {
-                "Branch-code":"BY",
-                "Branch Name":"BIO MEDICAL ENGINEERING (SS)",
+                "Branchcode":"BY",
+                "BranchName":"BIO MEDICAL ENGINEERING (SS)",
                 "OC":"192.5",
                 "BC":"190.78",
                 "BCM":"187.04",
                 "MBC":"186",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"168",
                 "SCA":"167.5",
-                "ST":""
+                "ST":"-"
             },
             {
-                "Branch-code":"CE",
-                "Branch Name":"CIVIL ENGINEERING",
+                "Branchcode":"CE",
+                "BranchName":"CIVIL ENGINEERING",
                 "OC":"193",
                 "BC":"191",
                 "BCM":"185.75",
                 "MBC":"184",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"172.5",
                 "SCA":"180",
-                "ST":""
+                "ST":"-"
             },
             {
-                "Branch-code":"CG",
-                "Branch Name":"Computer Science and Engineering (Artificial Intelligence and Machine Learning) (SS)",
+                "Branchcode":"CG",
+                "BranchName":"Computer Science and Engineering (Artificial Intelligence and Machine Learning) (SS)",
                 "OC":"197.5",
                 "BC":"197",
                 "BCM":"195.5",
                 "MBC":"195.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"185.5",
                 "SCA":"176.535",
                 "ST":"182"
             },
             {
-                "Branch-code":"CM",
-                "Branch Name":"COMPUTER SCIENCE AND ENGINEERING (SS)",
+                "Branchcode":"CM",
+                "BranchName":"COMPUTER SCIENCE AND ENGINEERING (SS)",
                 "OC":"199.5",
                 "BC":"198.5",
                 "BCM":"197",
                 "MBC":"196.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"186",
                 "SCA":"178",
                 "ST":"185"
             },
             {
-                "Branch-code":"CN",
-                "Branch Name":"CIVIL ENGINEERING (SS)",
+                "Branchcode":"CN",
+                "BranchName":"CIVIL ENGINEERING (SS)",
                 "OC":"190",
                 "BC":"189",
                 "BCM":"172.385",
                 "MBC":"177.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"166.37",
                 "SCA":"147.5",
-                "ST":""
+                "ST":"-"
             },
             {
-                "Branch-code":"EC",
-                "Branch Name":"ELECTRONICS AND COMMUNICATION ENGINEERING",
+                "Branchcode":"EC",
+                "BranchName":"ELECTRONICS AND COMMUNICATION ENGINEERING",
                 "OC":"198.5",
                 "BC":"198",
                 "BCM":"196",
                 "MBC":"195.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"185",
                 "SCA":"195",
                 "ST":"183"
             },
             {
-                "Branch-code":"EE",
-                "Branch Name":"ELECTRICAL AND ELECTRONICS ENGINEERING",
+                "Branchcode":"EE",
+                "BranchName":"ELECTRICAL AND ELECTRONICS ENGINEERING",
                 "OC":"196.5",
                 "BC":"196",
                 "BCM":"193.5",
                 "MBC":"192.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"182.535",
                 "SCA":"187.5",
                 "ST":"187.5"
             },
             {
-                "Branch-code":"EE",
-                "Branch Name":"ELECTRICAL AND ELECTRONICS (SANDWICH) (SS)",
+                "Branchcode":"EE",
+                "BranchName":"ELECTRICAL AND ELECTRONICS (SANDWICH) (SS)",
                 "OC":"191",
                 "BC":"189.5",
                 "BCM":"190",
                 "MBC":"182.325",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"162.175",
                 "SCA":"170",
                 "ST":"165"
             },
             {
-                "Branch-code":"ES",
-                "Branch Name":"ELECTRICAL AND ELECTRONICS (SANDWICH) (SS)",
+                "Branchcode":"ES",
+                "BranchName":"ELECTRICAL AND ELECTRONICS (SANDWICH) (SS)",
                 "OC":"191",
                 "BC":"189.5",
                 "BCM":"190",
                 "MBC":"182.325",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"162.175",
                 "SCA":"170",
                 "ST":"165"
             },
             {
-                "Branch-code":"FY",
-                "Branch Name":"FASHION TECHNOLOGY (SS)",
+                "Branchcode":"FY",
+                "BranchName":"FASHION TECHNOLOGY (SS)",
                 "OC":"173",
                 "BC":"167.845",
                 "BCM":"169.5",
                 "MBC":"150",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"139",
                 "SCA":"140",
                 "ST":"121"
             },
             {
-                "Branch-code":"IM",
-                "Branch Name":"INFORMATION TECHNOLOGY (SS)",
+                "Branchcode":"IM",
+                "BranchName":"INFORMATION TECHNOLOGY (SS)",
                 "OC":"198",
                 "BC":"197.5",
                 "BCM":"196",
                 "MBC":"194.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"183.5",
                 "SCA":"179",
                 "ST":"180.755"
             },
             {
-                "Branch-code":"IY",
-                "Branch Name":"INSTRUMENTATION AND CONTROL ENGINEERING (SS)",
+                "Branchcode":"IY",
+                "BranchName":"INSTRUMENTATION AND CONTROL ENGINEERING (SS)",
                 "OC":"192",
                 "BC":"190.5",
                 "BCM":"189.5",
                 "MBC":"185.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"168",
                 "SCA":"148",
                 "ST":"124"
             },
             {
-                "Branch-code":"ME",
-                "Branch Name":"MECHANICAL ENGINEERING",
+                "Branchcode":"ME",
+                "BranchName":"MECHANICAL ENGINEERING",
                 "OC":"194",
                 "BC":"192.5",
                 "BCM":"187",
                 "MBC":"189.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"176.5",
                 "SCA":"171",
                 "ST":"168.5"
             },
             {
-                "Branch-code":"MF",
-                "Branch Name":"MECHANICAL ENGINEERING (SS)",
+                "Branchcode":"MF",
+                "BranchName":"MECHANICAL ENGINEERING (SS)",
                 "OC":"191",
                 "BC":"189.5",
                 "BCM":"188",
                 "MBC":"185",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"169",
                 "SCA":"161",
-                "ST":""
+                "ST":"-"
             },
             {
-                "Branch-code":"MS",
-                "Branch Name":"MECHANICAL ENGINEERING (SANDWICH) (SS)",
+                "Branchcode":"MS",
+                "BranchName":"MECHANICAL ENGINEERING (SANDWICH) (SS)",
                 "OC":"182",
                 "BC":"178.5",
                 "BCM":"179.5",
                 "MBC":"176.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"152.5",
                 "SCA":"109.5",
                 "ST":"158"
             },
             {
-                "Branch-code":"MT",
-                "Branch Name":"METALLURGICAL ENGINEERING",
+                "Branchcode":"MT",
+                "BranchName":"METALLURGICAL ENGINEERING",
                 "OC":"188.5",
                 "BC":"180",
                 "BCM":"174.5",
                 "MBC":"177.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"165",
                 "SCA":"139",
-                "ST":""
+                "ST":"-"
             },
             {
-                "Branch-code":"MY",
-                "Branch Name":"METALLURGICAL ENGINEERING (SS)",
+                "Branchcode":"MY",
+                "BranchName":"METALLURGICAL ENGINEERING (SS)",
                 "OC":"183",
                 "BC":"175.5",
                 "BCM":"174",
                 "MBC":"172",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"144",
                 "SCA":"115",
-                "ST":""
+                "ST":"-"
             },
             {
-                "Branch-code":"PN",
-                "Branch Name":"PRODUCTION ENGINEERING (SS)",
+                "Branchcode":"PN",
+                "BranchName":"PRODUCTION ENGINEERING (SS)",
                 "OC":"185.3",
                 "BC":"179",
                 "BCM":"180.3",
                 "MBC":"180.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"157.5",
                 "SCA":"146.575",
-                "ST":""
+                "ST":"-"
             },
             {
-                "Branch-code":"PR",
-                "Branch Name":"PRODUCTION ENGINEERING",
+                "Branchcode":"PR",
+                "BranchName":"PRODUCTION ENGINEERING",
                 "OC":"188.5",
                 "BC":"184.5",
                 "BCM":"182.5",
                 "MBC":"183.955",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"160",
                 "SCA":"157",
-                "ST":""
+                "ST":"-"
             },
             {
-                "Branch-code":"PS",
-                "Branch Name":"PRODUCTION ENGINEERING (SANDWICH) (SS)",
+                "Branchcode":"PS",
+                "BranchName":"PRODUCTION ENGINEERING (SANDWICH) (SS)",
                 "OC":"176.5",
                 "BC":"169.5",
                 "BCM":"169.5",
                 "MBC":"160",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"126.5",
                 "SCA":"89.5",
-                "ST":""
+                "ST":"-"
             },
             {
-                "Branch-code":"RA",
-                "Branch Name":"ROBOTICS AND AUTOMATION (SS)",
+                "Branchcode":"RA",
+                "BranchName":"ROBOTICS AND AUTOMATION (SS)",
                 "OC":"194.5",
                 "BC":"193",
                 "BCM":"192.5",
                 "MBC":"188.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"173.5",
-                "SCA":"",
+                "SCA":"-",
                 "ST":"167"
             },
             {
-                "Branch-code":"TT",
-                "Branch Name":"TEXTILE TECHNOLOGY (SS)",
+                "Branchcode":"TT",
+                "BranchName":"TEXTILE TECHNOLOGY (SS)",
                 "OC":"170",
                 "BC":"164.5",
                 "BCM":"166",
                 "MBC":"158",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"140",
-                "SCA":"",
-                "ST":""
+                "SCA":"-",
+                "ST":"-"
             },
             {
-                "Branch-code":"TX",
-                "Branch Name":"TEXTILE TECHNOLOGY",
+                "Branchcode":"TX",
+                "BranchName":"TEXTILE TECHNOLOGY",
                 "OC":"184.5",
                 "BC":"166",
                 "BCM":"184",
                 "MBC":"168",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"146",
-                "SCA":"",
-                "ST":""
+                "SCA":"-",
+                "ST":"-"
             }
         ]
     },
@@ -863,186 +863,186 @@ const TNEA = {
         "rank":"6",
         "courses":[
             {
-                "Branch-code":"AT",
-                "Branch Name":"ARTIFICIAL INTELLIGENCE AND DATA SCIENCE (SS)",
+                "Branchcode":"AT",
+                "BranchName":"ARTIFICIAL INTELLIGENCE AND DATA SCIENCE (SS)",
                 "OC":"196",
                 "BC":"195",
-                "BCM":"",
+                "BCM":"-",
                 "MBC":"192",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"180.12",
                 "SCA":"171.5",
                 "ST":"166.5"
             },
             {
-                "Branch-code":"CE",
-                "Branch Name":"CIVIL ENGINEERING",
+                "Branchcode":"CE",
+                "BranchName":"CIVIL ENGINEERING",
                 "OC":"185.68",
                 "BC":"179",
                 "BCM":"168.5",
                 "MBC":"171.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"168",
-                "SCA":"",
-                "ST":""
+                "SCA":"-",
+                "ST":"-"
             },
             {
-                "Branch-code":"CH",
-                "Branch Name":"CHEMICAL ENGINEERING",
+                "Branchcode":"CH",
+                "BranchName":"CHEMICAL ENGINEERING",
                 "OC":"188",
                 "BC":"185.825",
                 "BCM":"177.5",
                 "MBC":"184.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"163.5",
                 "SCA":"123.5",
-                "ST":""
+                "ST":"-"
             },
             {
-                "Branch-code":"CL",
-                "Branch Name":"CHEMICAL ENGINEERING (SS)",
+                "Branchcode":"CL",
+                "BranchName":"CHEMICAL ENGINEERING (SS)",
                 "OC":"187",
                 "BC":"183.5",
                 "BCM":"174.5",
                 "MBC":"182.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"162.5",
-                "SCA":"",
-                "ST":""
+                "SCA":"-",
+                "ST":"-"
             },
             {
-                "Branch-code":"CM",
-                "Branch Name":"COMPUTER SCIENCE AND ENGINEERING (SS)",
+                "Branchcode":"CM",
+                "BranchName":"COMPUTER SCIENCE AND ENGINEERING (SS)",
                 "OC":"196.5",
                 "BC":"196.5",
                 "BCM":"194.5",
                 "MBC":"193",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"182.9",
                 "SCA":"178.5",
-                "ST":""
+                "ST":"-"
             },
             {
-                "Branch-code":"CN",
-                "Branch Name":"CIVIL ENGINEERING (SS)",
+                "Branchcode":"CN",
+                "BranchName":"CIVIL ENGINEERING (SS)",
                 "OC":"181.5",
                 "BC":"175",
                 "BCM":"171.5",
                 "MBC":"193",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"162.695",
                 "SCA":"143.5",
-                "ST":""
+                "ST":"-"
             },
             {
-                "Branch-code":"CS",
-                "Branch Name":"COMPUTER SCIENCE AND ENGINEERING",
+                "Branchcode":"CS",
+                "BranchName":"COMPUTER SCIENCE AND ENGINEERING",
                 "OC":"197",
                 "BC":"196.5",
                 "BCM":"195.5",
                 "MBC":"194",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"183.5",
                 "SCA":"183.5",
                 "ST":"184.5"
             },
             {
-                "Branch-code":"EC",
-                "Branch Name":"ELECTRONICS AND COMMUNICATION ENGINEERING",
+                "Branchcode":"EC",
+                "BranchName":"ELECTRONICS AND COMMUNICATION ENGINEERING",
                 "OC":"196.5",
                 "BC":"196",
                 "BCM":"194.5",
                 "MBC":"192.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"181.03",
                 "SCA":"178",
-                "ST":""   
+                "ST":"-"   
             },
             {
-                "Branch-code":"EE",
-                "Branch Name":"ELECTRICAL AND ELECTRONICS ENGINEERING",
+                "Branchcode":"EE",
+                "BranchName":"ELECTRICAL AND ELECTRONICS ENGINEERING",
                 "OC":"194",
                 "BC":"193",
                 "BCM":"192",
                 "MBC":"189",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"177.78",
                 "SCA":"171.5",
                 "ST":"149.22"   
             },
             {
-                "Branch-code":"EM",
-                "Branch Name":"ELECTRONICS AND COMMUNICATION ENGINEERING (SS)",
+                "Branchcode":"EM",
+                "BranchName":"ELECTRONICS AND COMMUNICATION ENGINEERING (SS)",
                 "OC":"195.5",
                 "BC":"195",
                 "BCM":"192",
                 "MBC":"191.715",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"177.5",
                 "SCA":"166.165",
-                "ST":""   
+                "ST":"-"   
             },
             {
-                "Branch-code":"EY",
-                "Branch Name":"ELECTRICAL AND ELECTRONICS ENGINEERING (SS)",
+                "Branchcode":"EY",
+                "BranchName":"ELECTRICAL AND ELECTRONICS ENGINEERING (SS)",
                 "OC":"192",
                 "BC":"191.5",
                 "BCM":"191",
                 "MBC":"188.5",
                 "MBCDNC":"",
-                "MBCV":"",
+                "MBCV":"-",
                 "SC":"169.5",
                 "SCA":"155.5",
                 "ST":"164"   
             },
             {
-                "Branch-code":"IM",
-                "Branch Name":"INFORMATION TECHNOLOGY (SS)",
+                "Branchcode":"IM",
+                "BranchName":"INFORMATION TECHNOLOGY (SS)",
                 "OC":"196",
                 "BC":"196",
                 "BCM":"194.5",
                 "MBC":"192.5",
                 "MBCDNC":"",
-                "MBCV":"",
+                "MBCV":"-",
                 "SC":"181",
                 "SCA":"177",
                 "ST":"177.5"   
             },
             {
-                "Branch-code":"ME",
-                "Branch Name":"MECHANICAL ENGINEERING",
+                "Branchcode":"ME",
+                "BranchName":"MECHANICAL ENGINEERING",
                 "OC":"188",
                 "BC":"185.5",
                 "BCM":"179.755",
                 "MBC":"181",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"164.5",
                 "SCA":"158.165",
                 "ST":"147.67"      
             },
             {
-                "Branch-code":"MF",
-                "Branch Name":"MECHANICAL ENGINEERING (SS)",
+                "Branchcode":"MF",
+                "BranchName":"MECHANICAL ENGINEERING (SS)",
                 "OC":"185",
                 "BC":"181.5",
                 "BCM":"181",
                 "MBC":"177.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"159",
                 "SCA":"128",
-                "ST":""         
+                "ST":"-"         
             }
         ]
     },
@@ -1052,112 +1052,112 @@ const TNEA = {
         "rank":"7",
         "courses":[
             {
-                "Branch-code":"CE",
-                "Branch Name":"CIVIL ENGINEERING",
+                "Branchcode":"CE",
+                "BranchName":"CIVIL ENGINEERING",
                 "OC":"189",
                 "BC":"184.5",
-                "BCM":"",
+                "BCM":"-",
                 "MBC":"182.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"160.175",
                 "SCA":"161.985",
-                "ST":""      
+                "ST":"-"      
             },
             {
-                "Branch-code":"CM",
-                "Branch Name":"COMPUTER SCIENCE AND ENGINEERING (SS)",
+                "Branchcode":"CM",
+                "BranchName":"COMPUTER SCIENCE AND ENGINEERING (SS)",
                 "OC":"196.5",
                 "BC":"196",
                 "BCM":"194.5",
                 "MBC":"191.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"177.5",
                 "SCA":"176",
                 "ST":"162.5"      
             },
             {
-                "Branch-code":"CN",
-                "Branch Name":"CIVIL ENGINEERING (SS)",
+                "Branchcode":"CN",
+                "BranchName":"CIVIL ENGINEERING (SS)",
                 "OC":"183",
                 "BC":"176",
                 "BCM":"175.5",
                 "MBC":"172.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"146.5",
                 "SCA":"131.5",
-                "ST":""    
+                "ST":"-"    
             },
             {
-                "Branch-code":"CS",
-                "Branch Name":"COMPUTER SCIENCE AND ENGINEERING",
+                "Branchcode":"CS",
+                "BranchName":"COMPUTER SCIENCE AND ENGINEERING",
                 "OC":"198",
                 "BC":"197",
                 "BCM":"197.5",
                 "MBC":"195.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"186.305",
                 "SCA":"189.5",
-                "ST":""       
+                "ST":"-"       
             },
             {
-                "Branch-code":"CW",
-                "Branch Name":"Computer Science and Business System (SS)",
+                "Branchcode":"CW",
+                "BranchName":"Computer Science and Business System (SS)",
                 "OC":"194.5",
                 "BC":"193.71",
                 "BCM":"189.5",
                 "MBC":"189.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"170",
                 "SCA":"123.5",
                 "ST":"165.5"    
             },
             {
-                "Branch-code":"EC",
-                "Branch Name":"ELECTRONICS AND COMMUNICATION ENGINEERING",
+                "Branchcode":"EC",
+                "BranchName":"ELECTRONICS AND COMMUNICATION ENGINEERING",
                 "OC":"197",
                 "BC":"196",
                 "BCM":"194",
                 "MBC":"193",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"183.5",
                 "SCA":"179.5",
-                "ST":""  
+                "ST":"-"  
             },
             {
-                "Branch-code":"EE",
-                "Branch Name":"ELECTRICAL AND ELECTRONICS ENGINEERING",
+                "Branchcode":"EE",
+                "BranchName":"ELECTRICAL AND ELECTRONICS ENGINEERING",
                 "OC":"193.5",
                 "BC":"193",
                 "BCM":"190",
                 "MBC":"187",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"180",
                 "SCA":"173",
                 "ST":"169.5"  
             },
             {
-                "Branch-code":"EM",
-                "Branch Name":"ELECTRONICS AND COMMUNICATION ENGINEERING (SS)",
+                "Branchcode":"EM",
+                "BranchName":"ELECTRONICS AND COMMUNICATION ENGINEERING (SS)",
                 "OC":"195.5",
                 "BC":"194",
                 "BCM":"190",
                 "MBC":"190.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"177.79",
                 "SCA":"160.5",
-                "ST":""     
+                "ST":"-"     
             },
             {
-                "Branch-code":"EY",
-                "Branch Name":"ELECTRICAL AND ELECTRONICS ENGINEERING (SS)",
+                "Branchcode":"EY",
+                "BranchName":"ELECTRICAL AND ELECTRONICS ENGINEERING (SS)",
                 "OC":"192.5",
                 "BC":"191",
                 "BCM":"189.06",
@@ -1169,56 +1169,56 @@ const TNEA = {
                 "ST":""     
             },
             {
-                "Branch-code":"IM",
-                "Branch Name":"INFORMATION TECHNOLOGY (SS)",
+                "Branchcode":"IM",
+                "BranchName":"INFORMATION TECHNOLOGY (SS)",
                 "OC":"195.5",
                 "BC":"194.5",
                 "BCM":"194.5",
                 "MBC":"190.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"175.5",
                 "SCA":"161.5",
                 "ST":"139.5"     
             },
             {
-                "Branch-code":"ME",
-                "Branch Name":"MECHANICAL ENGINEERING",
+                "Branchcode":"ME",
+                "BranchName":"MECHANICAL ENGINEERING",
                 "OC":"189.5",
                 "BC":"186",
                 "BCM":"183.5",
                 "MBC":"181.405",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"165.03",
                 "SCA":"148",
                 "ST":"145.5"     
             },
             {
-                "Branch-code":"MF",
-                "Branch Name":"MECHANICAL ENGINEERING (SS)",
+                "Branchcode":"MF",
+                "BranchName":"MECHANICAL ENGINEERING (SS)",
                 "OC":"185.5",
                 "BC":"183.5",
                 "BCM":"182",
                 "MBC":"178.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"156.5",
-                "SCA":"",
-                "ST":""     
+                "SCA":"-",
+                "ST":"-"     
             },
             {
-                "Branch-code":"MG",
-                "Branch Name":"MECHATRONICS (SS)",
+                "Branchcode":"MG",
+                "BranchName":"MECHATRONICS (SS)",
                 "OC":"189.5",
                 "BC":"187.5",
                 "BCM":"188",
                 "MBC":"185",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"158.5",
                 "SCA":"158",
-                "ST":""        
+                "ST":"-"        
             }
         ]
     },
@@ -1228,92 +1228,92 @@ const TNEA = {
         "rank":"8",
         "courses":[
             {
-                "Branch-code":"AD",
-                "Branch Name":"ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+                "Branchcode":"AD",
+                "BranchName":"ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
                 "OC":"195.5",
                 "BC":"195",
                 "BCM":"193.5",
                 "MBC":"191.34",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"175.605",
                 "SCA":"167",
-                "ST":""     
+                "ST":"-"     
             },
             {
-                "Branch-code":"CB",
-                "Branch Name":"COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+                "Branchcode":"CB",
+                "BranchName":"COMPUTER SCIENCE AND BUSSINESS SYSTEM",
                 "OC":"194.5",
                 "BC":"193.5",
                 "BCM":"189.33",
                 "MBC":"189.5",
                 "MBCDNC":"",
-                "MBCV":"",
+                "MBCV":"-",
                 "SC":"170.5",
                 "SCA":"150",
-                "ST":""        
+                "ST":"-"        
             },
             {
-                "Branch-code":"CE",
-                "Branch Name":"CIVIL ENGINEERING",
+                "Branchcode":"CE",
+                "BranchName":"CIVIL ENGINEERING",
                 "OC":"177.72",
                 "BC":"172.5",
                 "BCM":"163",
                 "MBC":"163",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"151.5",
                 "SCA":"150",
-                "ST":""   
+                "ST":"-"   
             },
             {
-                "Branch-code":"CS",
-                "Branch Name":"COMPUTER SCIENCE AND ENGINEERING",
+                "Branchcode":"CS",
+                "BranchName":"COMPUTER SCIENCE AND ENGINEERING",
                 "OC":"196.5",
                 "BC":"196",
                 "BCM":"192",
                 "MBC":"193.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"177.5",
                 "SCA":"172.5",
-                "ST":""      
+                "ST":"-"      
             },
             {
-                "Branch-code":"EC",
-                "Branch Name":"ELECTRONICS AND COMMUNICATION ENGINEERING",
+                "Branchcode":"EC",
+                "BranchName":"ELECTRONICS AND COMMUNICATION ENGINEERING",
                 "OC":"195.5",
                 "BC":"194.5",
                 "BCM":"192.5",
                 "MBC":"191",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"174.5",
                 "SCA":"166",
                 "ST":"172.67"     
             },
             {
-                "Branch-code":"EE",
-                "Branch Name":"ELECTRICAL AND ELECTRONICS ENGINEERING",
+                "Branchcode":"EE",
+                "BranchName":"ELECTRICAL AND ELECTRONICS ENGINEERING",
                 "OC":"193.43",
                 "BC":"191",
                 "BCM":"190",
                 "MBC":"188",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"164",
                 "SCA":"138.5",
                 "ST":"168.5"  
             },
             {
-                "Branch-code":"ME",
-                "Branch Name":"MECHANICAL ENGINEERING",
+                "Branchcode":"ME",
+                "BranchName":"MECHANICAL ENGINEERING",
                 "OC":"186.5",
                 "BC":"182",
                 "BCM":"",
                 "MBC":"179.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"167",
                 "SCA":"156",
                 "ST":"151.5"  
@@ -1326,121 +1326,121 @@ const TNEA = {
         "rank":"9",
         "courses":[
             {
-                "Branch-code":"CE",
-                "Branch Name":"CIVIL ENGINEERING",
+                "Branchcode":"CE",
+                "BranchName":"CIVIL ENGINEERING",
                 "OC":"181.21",
                 "BC":"173.88",
                 "BCM":"171.5",
                 "MBC":"171",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"162.5",
                 "SCA":"143",
                 "ST":"157.5"  
             },
             {
-                "Branch-code":"CS",
-                "Branch Name":"COMPUTER SCIENCE AND ENGINEERING",
+                "Branchcode":"CS",
+                "BranchName":"COMPUTER SCIENCE AND ENGINEERING",
                 "OC":"196.5",
                 "BC":"196.5",
                 "BCM":"192",
                 "MBC":"194",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"186",
                 "SCA":"180.275",
-                "ST":""
+                "ST":"-"
             },
             {
-                "Branch-code":"EC",
-                "Branch Name":"ELECTRONICS AND COMMUNICATION ENGINEERING",
+                "Branchcode":"EC",
+                "BranchName":"ELECTRONICS AND COMMUNICATION ENGINEERING",
                 "OC":"195.5",
                 "BC":"194.5",
                 "BCM":"194.5",
                 "MBC":"193",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"183.5",
                 "SCA":"166.755",
-                "ST":""
+                "ST":"-"
             },
             {
-                "Branch-code":"EE",
-                "Branch Name":"ELECTRICAL AND ELECTRONICS ENGINEERING",
+                "Branchcode":"EE",
+                "BranchName":"ELECTRICAL AND ELECTRONICS ENGINEERING",
                 "OC":"193",
                 "BC":"191.5",
                 "BCM":"191",
                 "MBC":"188.5",
                 "MBCDNC":"",
-                "MBCV":"",
+                "MBCV":"-",
                 "SC":"178.97",
                 "SCA":"176.635",
-                "ST":""
+                "ST":"-"
             },
             {
-                "Branch-code":"EI",
-                "Branch Name":"ELECTRONICS AND INSTRUMENTATION ENGINEERING",
+                "Branchcode":"EI",
+                "BranchName":"ELECTRONICS AND INSTRUMENTATION ENGINEERING",
                 "OC":"192",
                 "BC":"189.5",
                 "BCM":"188.5",
                 "MBC":"185",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"172.56",
                 "SCA":"150.5",
-                "ST":""   
+                "ST":"-"   
             },
             {
-                "Branch-code":"IB",
-                "Branch Name":"INDUSTRIAL BIO TECHNOLOGY",
+                "Branchcode":"IB",
+                "BranchName":"INDUSTRIAL BIO TECHNOLOGY",
                 "OC":"184.76",
                 "BC":"178",
                 "BCM":"156",
                 "MBC":"168.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"144.5",
                 "SCA":"131",
                 "ST":"104.5"      
             },
             {
-                "Branch-code":"IT",
-                "Branch Name":"INFORMATION TECHNOLOGY",
+                "Branchcode":"IT",
+                "BranchName":"INFORMATION TECHNOLOGY",
                 "OC":"195.5",
                 "BC":"194",
                 "BCM":"195",
                 "MBC":"193.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"185",
                 "SCA":"181.79",
                 "ST":"162.78"   
             },
             {
-                "Branch-code":"ME",
-                "Branch Name":"MECHANICAL ENGINEERING",
+                "Branchcode":"ME",
+                "BranchName":"MECHANICAL ENGINEERING",
                 "OC":"185",
                 "BC":"180",
                 "BCM":"174",
                 "MBC":"175.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"154",
                 "SCA":"142",
                 "ST":"168.735"   
             },
             {
-                "Branch-code":"PR",
-                "Branch Name":"PRODUCTION ENGINEERING",
+                "Branchcode":"PR",
+                "BranchName":"PRODUCTION ENGINEERING",
                 "OC":"179",
                 "BC":"171.5",
                 "BCM":"164.685",
                 "MBC":"169.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"141.5",
                 "SCA":"120.5",
-                "ST":""   
+                "ST":"-"   
             }
         ]
     },
@@ -1450,144 +1450,144 @@ const TNEA = {
         "rank":"10",
         "courses":[
             {
-                "Branch-code":"AP",
-                "Branch Name":"APPAREL TECHNOLOGY (SS)",
+                "Branchcode":"AP",
+                "BranchName":"APPAREL TECHNOLOGY (SS)",
                 "OC":"169.5",
                 "BC":"164.5",
                 "BCM":"150",
                 "MBC":"157.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"156.5",
                 "SCA":"164",
-                "ST":""
+                "ST":"-"
             },
             {
-                "Branch-code":"CH",
-                "Branch Name":"CHEMICAL ENGINEERING",
+                "Branchcode":"CH",
+                "BranchName":"CHEMICAL ENGINEERING",
                 "OC":"194",
                 "BC":"191",
                 "BCM":"179.395",
                 "MBC":"186.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"180.5",
                 "SCA":"180",
                 "ST":"160.75"
             },
             {
-                "Branch-code":"CL",
-                "Branch Name":"CHEMICAL ENGINEERING (SS)",
+                "Branchcode":"CL",
+                "BranchName":"CHEMICAL ENGINEERING (SS)",
                 "OC":"190",
                 "BC":"189",
                 "BCM":"179",
                 "MBC":"185",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"171.5",
                 "SCA":"151",
-                "ST":""
+                "ST":"-"
             },
             {
-                "Branch-code":"CR",
-                "Branch Name":"CERAMIC TECHNOLOGY (SS)",
+                "Branchcode":"CR",
+                "BranchName":"CERAMIC TECHNOLOGY (SS)",
                 "OC":"173",
                 "BC":"162",
                 "BCM":"164",
                 "MBC":"157",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"153",
                 "SCA":"91",
-                "ST":""
+                "ST":"-"
             },
             {
-                "Branch-code":"FS",
-                "Branch Name":"FOOD TECHNOLOGY (SS)",
+                "Branchcode":"FS",
+                "BranchName":"FOOD TECHNOLOGY (SS)",
                 "OC":"190.505",
                 "BC":"187",
                 "BCM":"189.5",
                 "MBC":"185.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"170.295",
                 "SCA":"168.5",
                 "ST":"165"
             },
             {
-                "Branch-code":"IB",
-                "Branch Name":"INDUSTRIAL BIO TECHNOLOGY",
+                "Branchcode":"IB",
+                "BranchName":"INDUSTRIAL BIO TECHNOLOGY",
                 "OC":"194",
                 "BC":"191.5",
                 "BCM":"186.5",
                 "MBC":"185.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"175",
                 "SCA":"167",
-                "ST":""
+                "ST":"-"
             },
             {
-                "Branch-code":"IS",
-                "Branch Name":"INDUSTRIAL BIO TECHNOLOGY (SS)",
+                "Branchcode":"IS",
+                "BranchName":"INDUSTRIAL BIO TECHNOLOGY (SS)",
                 "OC":"192.5",
                 "BC":"190",
                 "BCM":"184",
                 "MBC":"185.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"173",
                 "SCA":"",
-                "ST":""
+                "ST":"-"
             },
             {
-                "Branch-code":"LE",
-                "Branch Name":"LEATHER TECHNOLOGY",
+                "Branchcode":"LE",
+                "BranchName":"LEATHER TECHNOLOGY",
                 "OC":"170",
                 "BC":"161.5",
                 "BCM":"167.5",
                 "MBC":"160.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"152.5",
                 "SCA":"142.5",
-                "ST":""
+                "ST":"-"
             },
             {
-                "Branch-code":"PM",
-                "Branch Name":"PHARMACEUTICAL TECHNOLOGY (SS)",
+                "Branchcode":"PM",
+                "BranchName":"PHARMACEUTICAL TECHNOLOGY (SS)",
                 "OC":"185",
                 "BC":"177.5",
                 "BCM":"176",
                 "MBC":"179.22",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"163",
                 "SCA":"171.525",
                 "ST":"153.5"
             },
             {
-                "Branch-code":"PP",
-                "Branch Name":"PETROLEUM ENGINEERING AND TECHNOLOGY (SS)",
+                "Branchcode":"PP",
+                "BranchName":"PETROLEUM ENGINEERING AND TECHNOLOGY (SS)",
                 "OC":"182",
                 "BC":"172.5",
                 "BCM":"177.5",
                 "MBC":"171.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"162",
                 "SCA":"141.5",
-                "ST":""
+                "ST":"-"
             },
             {
-                "Branch-code":"TX",
-                "Branch Name":"TEXTILE TECHNOLOGY",
+                "Branchcode":"TX",
+                "BranchName":"TEXTILE TECHNOLOGY",
                 "OC":"176.5",
                 "BC":"166",
                 "BCM":"174",
                 "MBC":"171.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"156",
                 "SCA":"124.5",
                 "ST":"131.5"
@@ -1601,157 +1601,157 @@ const TNEA = {
         "rank":"11",
         "courses":[
             {
-                "Branch-code":"AD",
-                "Branch Name":"ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+                "Branchcode":"AD",
+                "BranchName":"ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
                 "OC":"192.5",
                 "BC":"191",
                 "BCM":"190",
                 "MBC":"188.365",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"167.5",
                 "SCA":"139.5",
                 "ST":"166.525"   
             },
             {
-                "Branch-code":"AM",
-                "Branch Name":"COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+                "Branchcode":"AM",
+                "BranchName":"COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
                 "OC":"192",
                 "BC":"191",
                 "BCM":"187.67",
                 "MBC":"183.33",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"170",
                 "SCA":"165.51",
-                "ST":""   
+                "ST":"-"   
             },
             {
-                "Branch-code":"BM",
-                "Branch Name":"BIO MEDICAL ENGINEERING",
+                "Branchcode":"BM",
+                "BranchName":"BIO MEDICAL ENGINEERING",
                 "OC":"187.5",
                 "BC":"191",
                 "BCM":"187.67",
                 "MBC":"183.33",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"170",
                 "SCA":"165.51",
-                "ST":""   
+                "ST":"-"   
             },
             {
-                "Branch-code":"CB",
-                "Branch Name":"COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+                "Branchcode":"CB",
+                "BranchName":"COMPUTER SCIENCE AND BUSSINESS SYSTEM",
                 "OC":"192",
                 "BC":"190",
                 "BCM":"187.5",
                 "MBC":"187",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"163",
                 "SCA":"142.5",
-                "ST":""     
+                "ST":"-"     
             },
             {
-                "Branch-code":"CE",
-                "Branch Name":"CIVIL ENGINEERING",
+                "Branchcode":"CE",
+                "BranchName":"CIVIL ENGINEERING",
                 "OC":"176",
                 "BC":"170.22",
                 "BCM":"175.5",
                 "MBC":"167.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"151",
-                "SCA":"",
-                "ST":""    
+                "SCA":"-",
+                "ST":"-"    
             },
             {
-                "Branch-code":"CS",
-                "Branch Name":"COMPUTER SCIENCE AND ENGINEERING",
+                "Branchcode":"CS",
+                "BranchName":"COMPUTER SCIENCE AND ENGINEERING",
                 "OC":"195.5",
                 "BC":"193.5",
                 "BCM":"193.5",
                 "MBC":"191.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"175",
                 "SCA":"154.5",
                 "ST":"128.5"    
             },
             {
-                "Branch-code":"EC",
-                "Branch Name":"ELECTRONICS AND COMMUNICATION ENGINEERING",
+                "Branchcode":"EC",
+                "BranchName":"ELECTRONICS AND COMMUNICATION ENGINEERING",
                 "OC":"194",
                 "BC":"191",
                 "BCM":"191.93",
                 "MBC":"188.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"167.5",
                 "SCA":"150",
-                "ST":""    
+                "ST":"-"    
             },
             {
-                "Branch-code":"EE",
-                "Branch Name":"ELECTRICAL AND ELECTRONICS ENGINEERING",
+                "Branchcode":"EE",
+                "BranchName":"ELECTRICAL AND ELECTRONICS ENGINEERING",
                 "OC":"190.5",
                 "BC":"189",
                 "BCM":"188",
                 "MBC":"185.845",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"163",
-                "SCA":"",
-                "ST":""    
+                "SCA":"-",
+                "ST":"-"    
             },
             {
-                "Branch-code":"IT",
-                "Branch Name":"INFORMATION TECHNOLOGY",
+                "Branchcode":"IT",
+                "BranchName":"INFORMATION TECHNOLOGY",
                 "OC":"193",
                 "BC":"192",
                 "BCM":"190",
                 "MBC":"189",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"169",
                 "SCA":"143",
                 "ST":"132"    
             },
             {
-                "Branch-code":"ME",
-                "Branch Name":"MECHANICAL ENGINEERING",
+                "Branchcode":"ME",
+                "BranchName":"MECHANICAL ENGINEERING",
                 "OC":"185.195",
                 "BC":"181",
                 "BCM":"177.5",
                 "MBC":"175.615",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"152.5",
-                "SCA":"",
-                "ST":""    
+                "SCA":"-",
+                "ST":"-"    
             },
             {
-                "Branch-code":"MZ",
-                "Branch Name":"Mechatronics Engineering",
+                "Branchcode":"MZ",
+                "BranchName":"Mechatronics Engineering",
                 "OC":"189.5",
                 "BC":"186.5",
                 "BCM":"187.965",
                 "MBC":"184.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"160.5",
                 "SCA":"132",
-                "ST":""    
+                "ST":"-"    
             },
             {
-                "Branch-code":"SC",
-                "Branch Name":"Computer Science and Engineering (Cyber Security)",
+                "Branchcode":"SC",
+                "BranchName":"Computer Science and Engineering (Cyber Security)",
                 "OC":"192",
                 "BC":"190",
                 "BCM":"191",
                 "MBC":"187.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"177.35",
                 "SCA":"147",
                 "ST":"118.5"    
@@ -1764,73 +1764,73 @@ const TNEA = {
         "rank":"12",
         "courses":[
             {
-                "Branch-code":"AD",
-                "Branch Name":"ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+                "Branchcode":"AD",
+                "BranchName":"ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
                 "OC":"191.5",
                 "BC":"190.5",
                 "BCM":"184",
                 "MBC":"183",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"166",
                 "SCA":"121.5",
-                "ST":""    
+                "ST":"-"    
             },
             {
-                "Branch-code":"AU",
-                "Branch Name":"AUTOMOBILE ENGINEERING",
+                "Branchcode":"AU",
+                "BranchName":"AUTOMOBILE ENGINEERING",
                 "OC":"161.5",
                 "BC":"153.5",
                 "BCM":"148",
                 "MBC":"147",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"97",
-                "SCA":"",
-                "ST":""    
+                "SCA":"-",
+                "ST":"-"    
             },
             {
-                "Branch-code":"BT",
-                "Branch Name":"BIO TECHNOLOGY",
+                "Branchcode":"BT",
+                "BranchName":"BIO TECHNOLOGY",
                 "OC":"189.5",
                 "BC":"183",
                 "BCM":"177.5",
                 "MBC":"163.5",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"159",
-                "SCA":"",
-                "ST":""    
+                "SCA":"-",
+                "ST":"-"    
             },
             {
-                "Branch-code":"CE",
-                "Branch Name":"CIVIL ENGINEERING",
+                "Branchcode":"CE",
+                "BranchName":"CIVIL ENGINEERING",
                 "OC":"169",
                 "BC":"146.5",
-                "BCM":"",
+                "BCM":"-",
                 "MBC":"151.5",
                 "MBCDNC":"",
-                "MBCV":"",
+                "MBCV":"-",
                 "SC":"144.5",
-                "SCA":"",
+                "SCA":"-",
                 "ST":"154"    
             },
             {
-                "Branch-code":"CH",
-                "Branch Name":"CHEMICAL ENGINEERING",
+                "Branchcode":"CH",
+                "BranchName":"CHEMICAL ENGINEERING",
                 "OC":"178.5",
                 "BC":"162.5",
                 "BCM":"177.5",
                 "MBC":"145",
-                "MBCDNC":"",
-                "MBCV":"",
+                "MBCDNC":"-",
+                "MBCV":"-",
                 "SC":"95",
-                "SCA":"",
-                "ST":""    
+                "SCA":"-",
+                "ST":"-"    
             },
             {
-                "Branch-code":"CS",
-                "Branch Name":"COMPUTER SCIENCE AND ENGINEERING",
+                "Branchcode":"CS",
+                "BranchName":"COMPUTER SCIENCE AND ENGINEERING",
                 "OC":"195.5",
                 "BC":"193.295",
                 "BCM":"189",
@@ -1842,8 +1842,8 @@ const TNEA = {
                 "ST":"171.5"    
             },
             {
-                "Branch-code":"EC",
-                "Branch Name":"ELECTRONICS AND COMMUNICATION ENGINEERING",
+                "Branchcode":"EC",
+                "BranchName":"ELECTRONICS AND COMMUNICATION ENGINEERING",
                 "OC":"191.5",
                 "BC":"189",
                 "BCM":"179.5",
@@ -1855,8 +1855,8 @@ const TNEA = {
                 "ST":"112.5"    
             },
             {
-                "Branch-code":"EE",
-                "Branch Name":"ELECTRICAL AND ELECTRONICS ENGINEERING",
+                "Branchcode":"EE",
+                "BranchName":"ELECTRICAL AND ELECTRONICS ENGINEERING",
                 "OC":"186",
                 "BC":"183.5",
                 "BCM":"170.5",
@@ -1868,8 +1868,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"IT",
-                "Branch Name":"INFORMATION TECHNOLOGY",
+                "Branchcode":"IT",
+                "BranchName":"INFORMATION TECHNOLOGY",
                 "OC":"193",
                 "BC":"192",
                 "BCM":"187",
@@ -1881,8 +1881,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"ME",
-                "Branch Name":"MECHANICAL ENGINEERING",
+                "Branchcode":"ME",
+                "BranchName":"MECHANICAL ENGINEERING",
                 "OC":"180",
                 "BC":"170.5",
                 "BCM":"171",
@@ -1894,8 +1894,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"MR",
-                "Branch Name":"MARINE ENGINEERING",
+                "Branchcode":"MR",
+                "Branch ame":"MARINE ENGINEERING",
                 "OC":"167.53",
                 "BC":"156",
                 "BCM":"",
@@ -1907,8 +1907,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"MU",
-                "Branch Name":"MECHANICAL AND AUTOMATION ENGINEERING",
+                "Branchcode":"MU",
+                "BranchName":"MECHANICAL AND AUTOMATION ENGINEERING",
                 "OC":"166.5",
                 "BC":"163",
                 "BCM":"",
@@ -1927,8 +1927,8 @@ const TNEA = {
       "rank":"13",
       "courses":[
         {
-            "Branch-code":"AD",
-            "Branch Name":"ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+            "Branchcode":"AD",
+            "BranchName":"ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
             "OC":"194",
             "BC":"193.5",
             "BCM":"188.5",
@@ -1940,8 +1940,8 @@ const TNEA = {
             "ST":""    
         },
         {
-            "Branch-code":"AE",
-            "Branch Name":"AERONAUTICAL ENGINEERING",
+            "Branchcode":"AE",
+            "BranchName":"AERONAUTICAL ENGINEERING",
             "OC":"185",
             "BC":"173",
             "BCM":"175.5",
@@ -1953,8 +1953,8 @@ const TNEA = {
             "ST":""    
         },
         {
-            "Branch-code":"AU",
-            "Branch Name":"AUTOMOBILE ENGINEERING",
+            "Branchcode":"AU",
+            "BranchName":"AUTOMOBILE ENGINEERING",
             "OC":"1695",
             "BC":"163.5",
             "BCM":"144",
@@ -1966,8 +1966,8 @@ const TNEA = {
             "ST":""    
         },
         {
-            "Branch-code":"BT",
-            "Branch Name":"BIO TECHNOLOGY",
+            "Branchcode":"BT",
+            "BranchName":"BIO TECHNOLOGY",
             "OC":"188.615",
             "BC":"184",
             "BCM":"181.5",
@@ -1979,8 +1979,8 @@ const TNEA = {
             "ST":""    
         },
         {
-            "Branch-code":"CE",
-            "Branch Name":"CIVIL ENGINEERING",
+            "Branchcode":"CE",
+            "BranchName":"CIVIL ENGINEERING",
             "OC":"173.605",
             "BC":"164",
             "BCM":"149.5",
@@ -1992,8 +1992,8 @@ const TNEA = {
             "ST":""    
         },
         {
-            "Branch-code":"CS",
-            "Branch Name":"COMPUTER SCIENCE AND ENGINEERING",
+            "Branchcode":"CS",
+            "BranchName":"COMPUTER SCIENCE AND ENGINEERING",
             "OC":"195.5",
             "BC":"194.5",
             "BCM":"193",
@@ -2005,8 +2005,8 @@ const TNEA = {
             "ST":"162"    
         },
         {
-            "Branch-code":"EC",
-            "Branch Name":"ELECTRONICS AND COMMUNICATION ENGINEERING",
+            "Branchcode":"EC",
+            "BranchName":"ELECTRONICS AND COMMUNICATION ENGINEERING",
             "OC":"193.66",
             "BC":"192.5",
             "BCM":"188.5",
@@ -2019,8 +2019,8 @@ const TNEA = {
         },
         
         {
-            "Branch-code":"EI",
-            "Branch Name":"ELECTRONICS AND INSTRUMENTATION ENGINEERING",
+            "Branchcode":"EI",
+            "BranchName":"ELECTRONICS AND INSTRUMENTATION ENGINEERING",
             "OC":"188.5",
             "BC":"185.5",
             "BCM":"185",
@@ -2032,8 +2032,8 @@ const TNEA = {
             "ST":"123"    
         },
         {
-            "Branch-code":"FT",
-            "Branch Name":"FASHION TECHNOLOGY",
+            "Branchcode":"FT",
+            "BranchName":"FASHION TECHNOLOGY",
             "OC":"167.5",
             "BC":"144.5",
             "BCM":"142",
@@ -2045,8 +2045,8 @@ const TNEA = {
             "ST":""    
         },
         {
-            "Branch-code":"IT",
-            "Branch Name":"INFORMATION TECHNOLOGY",
+            "Branchcode":"IT",
+            "BranchName":"INFORMATION TECHNOLOGY",
             "OC":"195",
             "BC":"194",
             "BCM":"192.5",
@@ -2058,8 +2058,8 @@ const TNEA = {
             "ST":""    
         },
         {
-            "Branch-code":"ME",
-            "Branch Name":"MECHANICAL ENGINEERING",
+            "Branchcode":"ME",
+            "BranchName":"MECHANICAL ENGINEERING",
             "OC":"180",
             "BC":"174",
             "BCM":"169",
@@ -2071,8 +2071,8 @@ const TNEA = {
             "ST":""    
         },
         {
-            "Branch-code":"MZ",
-            "Branch Name":"MECHATRONICS Engineering",
+            "Branchcode":"MZ",
+            "BranchName":"MECHATRONICS Engineering",
             "OC":"184",
             "BC":"178",
             "BCM":"182",
@@ -2084,8 +2084,8 @@ const TNEA = {
             "ST":""    
         },
         {
-            "Branch-code":"TX",
-            "Branch Name":"TEXTILE TECHNOLOGY",
+            "Branchcode":"TX",
+            "BranchName":"TEXTILE TECHNOLOGY",
             "OC":"155.5",
             "BC":"143.5",
             "BCM":"135.5",
@@ -2104,8 +2104,8 @@ const TNEA = {
         "rank":"14",
         "courses":[
             {
-                "Branch-code":"AD",
-                "Branch Name":"ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+                "Branchcode":"AD",
+                "BranchName":"ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
                 "OC":"185.01",
                 "BC":"178.5",
                 "BCM":"156",
@@ -2117,8 +2117,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"CS",
-                "Branch Name":"COMPUTER SCIENCE AND ENGINEERING",
+                "Branchcode":"CS",
+                "BranchName":"COMPUTER SCIENCE AND ENGINEERING",
                 "OC":"188",
                 "BC":"185",
                 "BCM":"180",
@@ -2130,8 +2130,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"EC",
-                "Branch Name":"ELECTRONICS AND COMMUNICATION ENGINEERING",
+                "Branchcode":"EC",
+                "BranchName":"ELECTRONICS AND COMMUNICATION ENGINEERING",
                 "OC":"184.5",
                 "BC":"175",
                 "BCM":"160",
@@ -2143,8 +2143,8 @@ const TNEA = {
                 "ST":"114"    
             },
             {
-                "Branch-code":"EE",
-                "Branch Name":"ELECTRICAL AND ELECTRONICS ENGINEERING",
+                "Branchcode":"EE",
+                "BranchName":"ELECTRICAL AND ELECTRONICS ENGINEERING",
                 "OC":"174.5",
                 "BC":"163",
                 "BCM":"146",
@@ -2156,8 +2156,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"ME",
-                "Branch Name":"MECHANICAL ENGINEERING",
+                "Branchcode":"ME",
+                "BranchName":"MECHANICAL ENGINEERING",
                 "OC":"158.5",
                 "BC":"138.5",
                 "BCM":"145",
@@ -2176,8 +2176,8 @@ const TNEA = {
         "rank":"15",
         "courses":[
             {
-                "Branch-code":"AD",
-                "Branch Name":"ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+                "Branchcode":"AD",
+                "BranchName":"ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
                 "OC":"190",
                 "BC":"187.5",
                 "BCM":"181.5",
@@ -2189,8 +2189,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"CB",
-                "Branch Name":"COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+                "Branchcode":"CB",
+                "BranchName":"COMPUTER SCIENCE AND BUSSINESS SYSTEM",
                 "OC":"187",
                 "BC":"186.5",
                 "BCM":"181.385",
@@ -2202,8 +2202,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"CD",
-                "Branch Name":"COMPUTER SCIENCE AND DESIGN",
+                "Branchcode":"CD",
+                "BranchName":"COMPUTER SCIENCE AND DESIGN",
                 "OC":"184.5",
                 "BC":"180.5",
                 "BCM":"177.385",
@@ -2215,8 +2215,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"CE",
-                "Branch Name":"CIVIL ENGINEERING",
+                "Branchcode":"CE",
+                "BranchName":"CIVIL ENGINEERING",
                 "OC":"166.5",
                 "BC":"157",
                 "BCM":"",
@@ -2228,8 +2228,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"CS",
-                "Branch Name":"COMPUTER SCIENCE AND ENGINEERING",
+                "Branchcode":"CS",
+                "BranchName":"COMPUTER SCIENCE AND ENGINEERING",
                 "OC":"192.5",
                 "BC":"190",
                 "BCM":"183.5",
@@ -2241,8 +2241,8 @@ const TNEA = {
                 "ST":"141"    
             },
             {
-                "Branch-code":"EC",
-                "Branch Name":"ELECTRONICS AND COMMUNICATION ENGINEERING",
+                "Branchcode":"EC",
+                "BranchName":"ELECTRONICS AND COMMUNICATION ENGINEERING",
                 "OC":"188",
                 "BC":"185.5",
                 "BCM":"180",
@@ -2254,8 +2254,8 @@ const TNEA = {
                 "ST":"117"    
             },
             {
-                "Branch-code":"EE",
-                "Branch Name":"ELECTRICAL AND ELECTRONICS ENGINEERING",
+                "Branchcode":"EE",
+                "BranchName":"ELECTRICAL AND ELECTRONICS ENGINEERING",
                 "OC":"180.6",
                 "BC":"178",
                 "BCM":"",
@@ -2267,8 +2267,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"IT",
-                "Branch Name":"INFORMATION TECHNOLOGY",
+                "Branchcode":"IT",
+                "BranchName":"INFORMATION TECHNOLOGY",
                 "OC":"189.5",
                 "BC":"187.725",
                 "BCM":"182.315",
@@ -2280,8 +2280,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"ME",
-                "Branch Name":"MECHANICAL ENGINEERING",
+                "Branchcode":"ME",
+                "BranchName":"MECHANICAL ENGINEERING",
                 "OC":"173",
                 "BC":"169.5",
                 "BCM":"",
@@ -2301,8 +2301,8 @@ const TNEA = {
         "rank":"16",
         "courses":[
             {
-                "Branch-code":"CE",
-                "Branch Name":"CIVIL ENGINEERING",
+                "Branchcode":"CE",
+                "BranchName":"CIVIL ENGINEERING",
                 "OC":"170",
                 "BC":"155.25",
                 "BCM":"125",
@@ -2314,8 +2314,8 @@ const TNEA = {
                 "ST":"124.5"    
             },
             {
-                "Branch-code":"CS",
-                "Branch Name":"COMPUTER SCIENCE AND ENGINEERING",
+                "Branchcode":"CS",
+                "BranchName":"COMPUTER SCIENCE AND ENGINEERING",
                 "OC":"193.5",
                 "BC":"192",
                 "BCM":"191.5",
@@ -2327,8 +2327,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"EC",
-                "Branch Name":"ELECTRONICS AND COMMUNICATION ENGINEERING",
+                "Branchcode":"EC",
+                "BranchName":"ELECTRONICS AND COMMUNICATION ENGINEERING",
                 "OC":"191.5",
                 "BC":"190",
                 "BCM":"187.845",
@@ -2340,8 +2340,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"EE",
-                "Branch Name":"ELECTRICAL AND ELECTRONICS ENGINEERING",
+                "Branchcode":"EE",
+                "BranchName":"ELECTRICAL AND ELECTRONICS ENGINEERING",
                 "OC":"188",
                 "BC":"185",
                 "BCM":"171.5",
@@ -2353,8 +2353,8 @@ const TNEA = {
                 "ST":"166.67"    
             },
             {
-                "Branch-code":"ME",
-                "Branch Name":"MECHANICAL ENGINEERING",
+                "Branchcode":"ME",
+                "BranchName":"MECHANICAL ENGINEERING",
                 "OC":"174",
                 "BC":"163.5",
                 "BCM":"150",
@@ -2366,8 +2366,8 @@ const TNEA = {
                 "ST":"144.285"    
             },
             {
-                "Branch-code":"MT",
-                "Branch Name":"METALLURGICAL ENGINEERING",
+                "Branchcode":"MT",
+                "BranchName":"METALLURGICAL ENGINEERING",
                 "OC":"173.5",
                 "BC":"157.5",
                 "BCM":"167",
@@ -2386,8 +2386,8 @@ const TNEA = {
         "rank":"17",
         "courses":[
             {
-                "Branch-code":"CE",
-                "Branch Name":"CIVIL ENGINEERING",
+                "Branchcode":"CE",
+                "BranchName":"CIVIL ENGINEERING",
                 "OC":"176.01",
                 "BC":"166",
                 "BCM":"155",
@@ -2399,8 +2399,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"CS",
-                "Branch Name":"COMPUTER SCIENCE AND ENGINEERING",
+                "Branchcode":"CS",
+                "BranchName":"COMPUTER SCIENCE AND ENGINEERING",
                 "OC":"192.5",
                 "BC":"190",
                 "BCM":"192",
@@ -2412,8 +2412,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"EC",
-                "Branch Name":"ELECTRONICS AND COMMUNICATION ENGINEERING",
+                "Branchcode":"EC",
+                "BranchName":"ELECTRONICS AND COMMUNICATION ENGINEERING",
                 "OC":"190",
                 "BC":"188.5",
                 "BCM":"187",
@@ -2425,8 +2425,8 @@ const TNEA = {
                 "ST":"145.5"    
             },
             {
-                "Branch-code":"EE",
-                "Branch Name":"ELECTRICAL AND ELECTRONICS ENGINEERING",
+                "Branchcode":"EE",
+                "BranchName":"ELECTRICAL AND ELECTRONICS ENGINEERING",
                 "OC":"182.5",
                 "BC":"178.5",
                 "BCM":"166",
@@ -2438,8 +2438,8 @@ const TNEA = {
                 "ST":"138.75"    
             },
             {
-                "Branch-code":"ME",
-                "Branch Name":"MECHANICAL ENGINEERING",
+                "Branchcode":"ME",
+                "BranchName":"MECHANICAL ENGINEERING",
                 "OC":"169.5",
                 "BC":"157.5",
                 "BCM":"161.275",
@@ -2458,8 +2458,8 @@ const TNEA = {
         "rank":"18",
         "courses":[
             {
-                "Branch-code":"AD",
-                "Branch Name":"ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+                "Branchcode":"AD",
+                "BranchName":"ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
                 "OC":"191",
                 "BC":"189.33",
                 "BCM":"190",
@@ -2471,8 +2471,8 @@ const TNEA = {
                 "ST":"113.5"    
             },
             {
-                "Branch-code":"AE",
-                "Branch Name":"AERONAUTICAL ENGINEERING",
+                "Branchcode":"AE",
+                "BranchName":"AERONAUTICAL ENGINEERING",
                 "OC":"180",
                 "BC":"165",
                 "BCM":"167",
@@ -2484,8 +2484,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"AL",
-                "Branch Name":"ARTIFICIAL INTELLIGENCE AND MACHINE ENGINEERING",
+                "Branchcode":"AL",
+                "BranchName":"ARTIFICIAL INTELLIGENCE AND MACHINE ENGINEERING",
                 "OC":"190",
                 "BC":"187",
                 "BCM":"178",
@@ -2497,8 +2497,8 @@ const TNEA = {
                 "ST":"115.5"    
             },
             {
-                "Branch-code":"AU",
-                "Branch Name":"AUTOMOBILE ENGINEERING",
+                "Branchcode":"AU",
+                "BranchName":"AUTOMOBILE ENGINEERING",
                 "OC":"162",
                 "BC":"156.5",
                 "BCM":"136.5",
@@ -2510,8 +2510,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"BM",
-                "Branch Name":"BIO MEDICAL ENGINEERING",
+                "Branchcode":"BM",
+                "BranchName":"BIO MEDICAL ENGINEERING",
                 "OC":"181.735",
                 "BC":"172.33",
                 "BCM":"172",
@@ -2523,8 +2523,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"BT",
-                "Branch Name":"BIO TECHNOLOGY",
+                "Branchcode":"BT",
+                "BranchName":"BIO TECHNOLOGY",
                 "OC":"182.5",
                 "BC":"168.5",
                 "BCM":"154",
@@ -2536,8 +2536,8 @@ const TNEA = {
                 "ST":"174.405"    
             },
             {
-                "Branch-code":"CB",
-                "Branch Name":"COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+                "Branchcode":"CB",
+                "BranchName":"COMPUTER SCIENCE AND BUSSINESS SYSTEM",
                 "OC":"188.5",
                 "BC":"187",
                 "BCM":"184.5",
@@ -2549,8 +2549,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"CD",
-                "Branch Name":"COMPUTER SCIENCE AND DESIGN",
+                "Branchcode":"CD",
+                "BranchName":"COMPUTER SCIENCE AND DESIGN",
                 "OC":"188.5",
                 "BC":"186",
                 "BCM":"186",
@@ -2562,8 +2562,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"CE",
-                "Branch Name":"CIVIL ENGINEERING",
+                "Branchcode":"CE",
+                "BranchName":"CIVIL ENGINEERING",
                 "OC":"162.5",
                 "BC":"150",
                 "BCM":"84",
@@ -2575,8 +2575,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"CH",
-                "Branch Name":"CHEMICAL ENGINEERING",
+                "Branchcode":"CH",
+                "BranchName":"CHEMICAL ENGINEERING",
                 "OC":"173.5",
                 "BC":"164.5",
                 "BCM":"166",
@@ -2588,8 +2588,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"CS",
-                "Branch Name":"COMPUTER SCIENCE AND ENGINEERING",
+                "Branchcode":"CS",
+                "BranchName":"COMPUTER SCIENCE AND ENGINEERING",
                 "OC":"193.08",
                 "BC":"190.635",
                 "BCM":"189.5",
@@ -2601,8 +2601,8 @@ const TNEA = {
                 "ST":"135"    
             },
             {
-                "Branch-code":"EC",
-                "Branch Name":"ELECTRONICS AND COMMUNICATION ENGINEERING",
+                "Branchcode":"EC",
+                "BranchName":"ELECTRONICS AND COMMUNICATION ENGINEERING",
                 "OC":"190",
                 "BC":"188",
                 "BCM":"184.5",
@@ -2614,8 +2614,8 @@ const TNEA = {
                 "ST":"120"    
             },
             {
-                "Branch-code":"EE",
-                "Branch Name":"ELECTRONICS AND ELECTRONICS ENGINEERING",
+                "Branchcode":"EE",
+                "BranchName":"ELECTRONICS AND ELECTRONICS ENGINEERING",
                 "OC":"184",
                 "BC":"179",
                 "BCM":"173",
@@ -2627,8 +2627,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"FD",
-                "Branch Name":"FOOD TECHNOLOGY",
+                "Branchcode":"FD",
+                "BranchName":"FOOD TECHNOLOGY",
                 "OC":"173",
                 "BC":"163.5",
                 "BCM":"122.5",
@@ -2640,8 +2640,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"IT",
-                "Branch Name":"INFORMATION TECHNOLOGY",
+                "Branchcode":"IT",
+                "BranchName":"INFORMATION TECHNOLOGY",
                 "OC":"191.5",
                 "BC":"189.5",
                 "BCM":"187",
@@ -2653,8 +2653,8 @@ const TNEA = {
                 "ST":"155.5"    
             },
             {
-                "Branch-code":"ME",
-                "Branch Name":"MECHANICAL ENGINEERING",
+                "Branchcode":"ME",
+                "BranchName":"MECHANICAL ENGINEERING",
                 "OC":"174.5",
                 "BC":"164.5",
                 "BCM":"166.5",
@@ -2666,8 +2666,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"MZ",
-                "Branch Name":"MECHATRONICS ENGINEERING",
+                "Branchcode":"MZ",
+                "BranchName":"MECHATRONICS ENGINEERING",
                 "OC":"178",
                 "BC":"171",
                 "BCM":"173.5",
@@ -2679,8 +2679,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"RM",
-                "Branch Name":"ROBOTICS AND AUTOMATION",
+                "Branchcode":"RM",
+                "BranchName":"ROBOTICS AND AUTOMATION",
                 "OC":"182.5",
                 "BC":"174.5",
                 "BCM":"",
@@ -2701,8 +2701,8 @@ const TNEA = {
         "rank":"19",
         "courses":[
             {
-                "Branch-code":"AD",
-                "Branch Name":"ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+                "Branchcode":"AD",
+                "BranchName":"ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
                 "OC":"192.5",
                 "BC":"191.5",
                 "BCM":"186.23",
@@ -2714,8 +2714,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"CB",
-                "Branch Name":"COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+                "Branchcode":"CB",
+                "BranchName":"COMPUTER SCIENCE AND BUSSINESS SYSTEM",
                 "OC":"190",
                 "BC":"190",
                 "BCM":"186.5",
@@ -2727,8 +2727,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"CD",
-                "Branch Name":"COMPUTER SCIENCE AND DESIGN",
+                "Branchcode":"CD",
+                "BranchName":"COMPUTER SCIENCE AND DESIGN",
                 "OC":"188.5",
                 "BC":"187",
                 "BCM":"187",
@@ -2740,8 +2740,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"CE",
-                "Branch Name":"CIVIL ENGINEERING",
+                "Branchcode":"CE",
+                "BranchName":"CIVIL ENGINEERING",
                 "OC":"168.5",
                 "BC":"162",
                 "BCM":"145",
@@ -2753,8 +2753,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"CJ",
-                "Branch Name":" M.Tech. Computer Science and Engineering (Integrated 5 years) ",
+                "Branchcode":"CJ",
+                "BranchName":" M.Tech. Computer Science and Engineering (Integrated 5 years) ",
                 "OC":"188",
                 "BC":"186.5",
                 "BCM":"183",
@@ -2766,8 +2766,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"CS",
-                "Branch Name":"COMPUTER SCIENCE AND ENGINEERING",
+                "Branchcode":"CS",
+                "BranchName":"COMPUTER SCIENCE AND ENGINEERING",
                 "OC":"194",
                 "BC":"193",
                 "BCM":"189.5",
@@ -2779,8 +2779,8 @@ const TNEA = {
                 "ST":"160.5"    
             },
             {
-                "Branch-code":"EC",
-                "Branch Name":"ELECTRONICS AND COMMUNICATION ENGINEERING",
+                "Branchcode":"EC",
+                "BranchName":"ELECTRONICS AND COMMUNICATION ENGINEERING",
                 "OC":"191.5",
                 "BC":"190",
                 "BCM":"183.5",
@@ -2792,8 +2792,8 @@ const TNEA = {
                 "ST":"144"    
             },
             {
-                "Branch-code":"EE",
-                "Branch Name":"ELECTRICAL AND ELECTRONICS ENGINEERING",
+                "Branchcode":"EE",
+                "BranchName":"ELECTRICAL AND ELECTRONICS ENGINEERING",
                 "OC":"186.5",
                 "BC":"184.5",
                 "BCM":"180.5",
@@ -2805,8 +2805,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"IT",
-                "Branch Name":"INFORMATION TECHNOLOGY",
+                "Branchcode":"IT",
+                "BranchName":"INFORMATION TECHNOLOGY",
                 "OC":"192.5",
                 "BC":"191.5",
                 "BCM":"186.5",
@@ -2818,8 +2818,8 @@ const TNEA = {
                 "ST":"124"    
             },
             {
-                "Branch-code":"ME",
-                "Branch Name":"MECHANICAL ENGINEERING",
+                "Branchcode":"ME",
+                "BranchName":"MECHANICAL ENGINEERING",
                 "OC":"174",
                 "BC":"169.5",
                 "BCM":"185.44",
@@ -2831,8 +2831,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"MZ",
-                "Branch Name":"Mechatronics Engineering",
+                "Branchcode":"MZ",
+                "BranchName":"Mechatronics Engineering",
                 "OC":"176",
                 "BC":"170",
                 "BCM":"161.5",
@@ -2844,8 +2844,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"SC",
-                "Branch Name":"Computer Science and Engineering (Cyber Security)",
+                "Branchcode":"SC",
+                "BranchName":"Computer Science and Engineering (Cyber Security)",
                 "OC":"191",
                 "BC":"190.44",
                 "BCM":"184",
@@ -2865,8 +2865,8 @@ const TNEA = {
         "rank":"20",
         "courses":[
             {
-                "Branch-code":"AU",
-                "Branch Name":"AUTOMOBILE ENGINEERING",
+                "Branchcode":"AU",
+                "BranchName":"AUTOMOBILE ENGINEERING",
                 "OC":"138",
                 "BC":"",
                 "BCM":"92",
@@ -2878,8 +2878,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"CE",
-                "Branch Name":"CIVIL ENGINEERING",
+                "Branchcode":"CE",
+                "BranchName":"CIVIL ENGINEERING",
                 "OC":"156",
                 "BC":"134.5",
                 "BCM":"120",
@@ -2891,8 +2891,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"CS",
-                "Branch Name":"COMPUTER SCIENCE AND ENGINEERING",
+                "Branchcode":"CS",
+                "BranchName":"COMPUTER SCIENCE AND ENGINEERING",
                 "OC":"188.735",
                 "BC":"185",
                 "BCM":"175",
@@ -2904,8 +2904,8 @@ const TNEA = {
                 "ST":"144.5"    
             },
             {
-                "Branch-code":"EC",
-                "Branch Name":"ELECTRONICS AND COMMUNICATION ENGINEERING",
+                "Branchcode":"EC",
+                "BranchName":"ELECTRONICS AND COMMUNICATION ENGINEERING",
                 "OC":"183.22",
                 "BC":"180.5",
                 "BCM":"173.5",
@@ -2917,8 +2917,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"EE",
-                "Branch Name":"ELECTRICAL AND ELECTRONICS ENGINEERING",
+                "Branchcode":"EE",
+                "BranchName":"ELECTRICAL AND ELECTRONICS ENGINEERING",
                 "OC":"176.5",
                 "BC":"173",
                 "BCM":"157",
@@ -2930,8 +2930,8 @@ const TNEA = {
                 "ST":"151"    
             },
             {
-                "Branch-code":"IT",
-                "Branch Name":"INFORMATION TECHNOLOGY",
+                "Branchcode":"IT",
+                "BranchName":"INFORMATION TECHNOLOGY",
                 "OC":"186.755",
                 "BC":"182.69",
                 "BCM":"171.355",
@@ -2943,8 +2943,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"ME",
-                "Branch Name":"MECHANICAL ENGINEERING",
+                "Branchcode":"ME",
+                "BranchName":"MECHANICAL ENGINEERING",
                 "OC":"163.5",
                 "BC":"153",
                 "BCM":"139.5",
@@ -2964,8 +2964,8 @@ const TNEA = {
         "location": "TirunelVeli",
         "courses":[
             {
-                "Branch-code":"CE",
-                "Branch Name":"CIVIL ENGINEERING",
+                "Branchcode":"CE",
+                "BranchName":"CIVIL ENGINEERING",
                 "OC":"170.5",
                 "BC":"148.5",
                 "BCM":"144.5",
@@ -2977,8 +2977,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"CS",
-                "Branch Name":"COMPUTER SCIENCE AND ENGINEERING",
+                "Branchcode":"CS",
+                "BranchName":"COMPUTER SCIENCE AND ENGINEERING",
                 "OC":"191.5",
                 "BC":"186",
                 "BCM":"188.295",
@@ -2990,8 +2990,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"EC",
-                "Branch Name":"ELECTRONICS AND COMMUNICATION ENGINEERING",
+                "Branchcode":"EC",
+                "BranchName":"ELECTRONICS AND COMMUNICATION ENGINEERING",
                 "OC":"185.715",
                 "BC":"181.5",
                 "BCM":"182.5",
@@ -3003,8 +3003,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"EE",
-                "Branch Name":"ELECTRICAL AND ELECTRONICS ENGINEERING",
+                "Branchcode":"EE",
+                "BranchName":"ELECTRICAL AND ELECTRONICS ENGINEERING",
                 "OC":"180.5",
                 "BC":"174",
                 "BCM":"169",
@@ -3016,8 +3016,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"ME",
-                "Branch Name":"MECHANICAL ENGINEERING",
+                "Branchcode":"ME",
+                "BranchName":"MECHANICAL ENGINEERING",
                 "OC":"156.815",
                 "BC":"140",
                 "BCM":"140.5",
@@ -3037,8 +3037,8 @@ const TNEA = {
         "rank":"22",
         "courses":[
             {
-                "Branch-code":"AL",
-                "Branch Name":"Artificial Intelligence and Machine Learning",
+                "Branchcode":"AL",
+                "BranchName":"Artificial Intelligence and Machine Learning",
                 "OC":"179",
                 "BC":"173.5",
                 "BCM":"168",
@@ -3050,8 +3050,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"CB",
-                "Branch Name":"COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+                "Branchcode":"CB",
+                "BranchName":"COMPUTER SCIENCE AND BUSSINESS SYSTEM",
                 "OC":"177.5",
                 "BC":"173",
                 "BCM":"164",
@@ -3063,8 +3063,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"CS",
-                "Branch Name":"COMPUTER SCIENCE AND ENGINEERING",
+                "Branchcode":"CS",
+                "BranchName":"COMPUTER SCIENCE AND ENGINEERING",
                 "OC":"186.5",
                 "BC":"182",
                 "BCM":"171.165",
@@ -3076,8 +3076,8 @@ const TNEA = {
                 "ST":"130"    
             },
             {
-                "Branch-code":"EC",
-                "Branch Name":"ELECTRONICS AND COMMUNICATION ENGINEERING",
+                "Branchcode":"EC",
+                "BranchName":"ELECTRONICS AND COMMUNICATION ENGINEERING",
                 "OC":"180",
                 "BC":"173.5",
                 "BCM":"162.5",
@@ -3089,8 +3089,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"IT",
-                "Branch Name":"INFORMATION TECHNOLOGY",
+                "Branchcode":"IT",
+                "BranchName":"INFORMATION TECHNOLOGY",
                 "OC":"184",
                 "BC":"180.5",
                 "BCM":"",
@@ -3110,8 +3110,8 @@ const TNEA = {
         "rank":"23",
         "courses":[
             {
-                "Branch-code":"AD",
-                "Branch Name":"ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+                "Branchcode":"AD",
+                "BranchName":"ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
                 "OC":"183",
                 "BC":"178",
                 "BCM":"175.5",
@@ -3123,8 +3123,8 @@ const TNEA = {
                 "ST":"92"    
             },
             {
-                "Branch-code":"AM",
-                "Branch Name":"COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+                "Branchcode":"AM",
+                "BranchName":"COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
                 "OC":"185",
                 "BC":"179",
                 "BCM":"174.5",
@@ -3136,8 +3136,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"AM",
-                "Branch Name":"COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+                "Branchcode":"AM",
+                "BranchName":"COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
                 "OC":"185",
                 "BC":"179",
                 "BCM":"174.5",
@@ -3149,8 +3149,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"CB",
-                "Branch Name":"COMPUTER SCIENCE AND BUSSINESS SYSTEM",
+                "Branchcode":"CB",
+                "BranchName":"COMPUTER SCIENCE AND BUSSINESS SYSTEM",
                 "OC":"181",
                 "BC":"175.5",
                 "BCM":"163",
@@ -3162,8 +3162,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"CE",
-                "Branch Name":"CIVIL ENGINEERING",
+                "Branchcode":"CE",
+                "BranchName":"CIVIL ENGINEERING",
                 "OC":"143.5",
                 "BC":"116",
                 "BCM":"122",
@@ -3175,8 +3175,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"CI",
-                "Branch Name":"Computer Science and Engineering (Internet of Things)",
+                "Branchcode":"CI",
+                "BranchName":"Computer Science and Engineering (Internet of Things)",
                 "OC":"179.5",
                 "BC":"175",
                 "BCM":"178.5",
@@ -3188,8 +3188,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"CJ",
-                "Branch Name":"M.Tech. Computer Science and Engineering (Integrated 5 years)",
+                "Branchcode":"CJ",
+                "BranchName":"M.Tech. Computer Science and Engineering (Integrated 5 years)",
                 "OC":"180",
                 "BC":"174.5",
                 "BCM":"169.5",
@@ -3201,8 +3201,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"CS",
-                "Branch Name":"COMPUTER SCIENCE AND ENGINEERING",
+                "Branchcode":"CS",
+                "BranchName":"COMPUTER SCIENCE AND ENGINEERING",
                 "OC":"190",
                 "BC":"186.5",
                 "BCM":"184.5",
@@ -3214,8 +3214,8 @@ const TNEA = {
                 "ST":"112.5"    
             },
             {
-                "Branch-code":"EC",
-                "Branch Name":"ELECTRONICS AND COMMUNICATION ENGINEERING",
+                "Branchcode":"EC",
+                "BranchName":"ELECTRONICS AND COMMUNICATION ENGINEERING",
                 "OC":"182.5",
                 "BC":"176",
                 "BCM":"172.5",
@@ -3227,8 +3227,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"EE",
-                "Branch Name":"ELECTRICAL AND ELECTRONICS ENGINEERING",
+                "Branchcode":"EE",
+                "BranchName":"ELECTRICAL AND ELECTRONICS ENGINEERING",
                 "OC":"175",
                 "BC":"168",
                 "BCM":"156.5",
@@ -3240,8 +3240,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"EI",
-                "Branch Name":"ELECTRONICS AND INSTRUMENTATION ENGINEERING",
+                "Branchcode":"EI",
+                "BranchName":"ELECTRONICS AND INSTRUMENTATION ENGINEERING",
                 "OC":"166.5",
                 "BC":"159",
                 "BCM":"142.5",
@@ -3253,8 +3253,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"IC",
-                "Branch Name":"INSTRUMENTATION AND CONTROL ENGINEERING",
+                "Branchcode":"IC",
+                "BranchName":"INSTRUMENTATION AND CONTROL ENGINEERING",
                 "OC":"169.5",
                 "BC":"157",
                 "BCM":"150",
@@ -3266,8 +3266,8 @@ const TNEA = {
                 "ST":""    
             },
             {
-                "Branch-code":"IT",
-                "Branch Name":"INFORMATION TECHNOLOGY",
+                "Branchcode":"IT",
+                "BranchName":"INFORMATION TECHNOLOGY",
                 "OC":"185.78",
                 "BC":"183",
                 "BCM":"177",
@@ -3279,8 +3279,8 @@ const TNEA = {
                 "ST":"110"    
             },
             {
-                "Branch-code":"ME",
-                "Branch Name":"MECHANICAL ENGINEERING",
+                "Branchcode":"ME",
+                "BranchName":"MECHANICAL ENGINEERING",
                 "OC":"159.5",
                 "BC":"140.5",
                 "BCM":"119.5",
@@ -3292,8 +3292,8 @@ const TNEA = {
                 "ST":"110"    
             },
             {
-                "Branch-code":"MU",
-                "Branch Name":"MECHANICAL AND AUTOMATION ENGINEERING",
+                "Branchcode":"MU",
+                "BranchName":"MECHANICAL AND AUTOMATION ENGINEERING",
                 "OC":"156.5",
                 "BC":"142.5",
                 "BCM":"110.5",
@@ -3313,8 +3313,8 @@ const TNEA = {
         "location":"kuthampakkam post, kancheepuram - 602107",
         "courses":[
             {
-                "Branch-code":"AD",
-                "Branch Name":"Artificial Intelligence and Data Science",
+                "Branchcode":"AD",
+                "BranchName":"Artificial Intelligence and Data Science",
                 "OC":"185.5",
                 "BC":"180",
                 "BCM":"164.5",
@@ -3326,8 +3326,8 @@ const TNEA = {
                 "ST":""
             },
             {
-                "Branch-code":"AM",
-                "Branch Name":"Computer science and Engineering (artificial Intelligence and Machine Learning)",
+                "Branchcode":"AM",
+                "BranchName":"Computer science and Engineering (artificial Intelligence and Machine Learning)",
                 "OC":"185.5",
                 "BC":"179",
                 "BCM":"183.5",
@@ -3339,8 +3339,8 @@ const TNEA = {
                 "ST":""
             },
             {
-                "Branch-code":"CO",
-                "Branch Name":"Computer and Communication Engineering",
+                "Branchcode":"CO",
+                "BranchName":"Computer and Communication Engineering",
                 "OC":"185",
                 "BC":"177",
                 "BCM":"181",
@@ -3352,8 +3352,8 @@ const TNEA = {
                 "ST":""
             },
             {
-                "Branch-code":"CS",
-                "Branch Name":"Computer Science And Engineering",
+                "Branchcode":"CS",
+                "BranchName":"Computer Science And Engineering",
                 "OC":"189",
                 "BC":"182",
                 "BCM":"183.5",
@@ -3365,8 +3365,8 @@ const TNEA = {
                 "ST":""
             },
             {
-                "Branch-code":"EC",
-                "Branch Name":"Electronics and Communication Engineering",
+                "Branchcode":"EC",
+                "BranchName":"Electronics and Communication Engineering",
                 "OC":"186",
                 "BC":"179.5",
                 "BCM":"183.51",
@@ -3378,8 +3378,8 @@ const TNEA = {
                 "ST":"1"
             },
             {   
-                "Branch-code":"CB",
-                "Branch Name":"Computer and communication Engineering",
+                "Branchcode":"CB",
+                "BranchName":"Computer and communication Engineering",
                 "OC":"183",
                 "BC":"176.5",
                 "BCM":"176",
@@ -3391,8 +3391,8 @@ const TNEA = {
                 "ST":""
             },
             {
-                "Branch-code":"EE",
-                "Branch Name":"Electrical And Electronics Engineering",
+                "Branchcode":"EE",
+                "BranchName":"Electrical And Electronics Engineering",
                 "OC":"186",
                 "BC":"179.5",
                 "BCM":"183.51",
@@ -3404,8 +3404,8 @@ const TNEA = {
                 "ST":""
             },
             {
-                "Branch-code":"ME",
-                "Branch Name":"Mechanical Engineering",
+                "Branchcode":"ME",
+                "BranchName":"Mechanical Engineering",
                 "OC":"168.5",
                 "BC":"159.5",
                 "BCM":"156",
@@ -3425,8 +3425,8 @@ const TNEA = {
         "location":"vadasithur, coimbatore - 641202",
         "courses":[
             {
-                "Branch-code":"AD",
-                "Branch Name":"Artificial Intelligence and Data Science",
+                "Branchcode":"AD",
+                "BranchName":"Artificial Intelligence and Data Science",
                 "OC":"185",
                 "BC":"179.5",
                 "BCM":"165.5",
@@ -3438,8 +3438,8 @@ const TNEA = {
                 "ST":""
             },
             {
-                "Branch-code":"AM",
-                "Branch Name":"Computer science and Engineering (artificial Intelligence and Machine Learning)",
+                "Branchcode":"AM",
+                "BranchName":"Computer science and Engineering (artificial Intelligence and Machine Learning)",
                 "OC":"183.5",
                 "BC":"178.5",
                 "BCM":"178",
@@ -3451,8 +3451,8 @@ const TNEA = {
                 "ST":""
             },
             {
-                "Branch-code":"CO",
-                "Branch Name":"Computer and Communication Engineering",
+                "Branchcode":"CO",
+                "BranchName":"Computer and Communication Engineering",
                 "OC":"186",
                 "BC":"180",
                 "BCM":"177.5",
@@ -3464,8 +3464,8 @@ const TNEA = {
                 "ST":""
             },
             {
-                "Branch-code":"CS",
-                "Branch Name":"Computer Science And Engineering",
+                "Branchcode":"CS",
+                "BranchName":"Computer Science And Engineering",
                 "OC":"189",
                 "BC":"182.78",
                 "BCM":"183.5",
@@ -3477,8 +3477,8 @@ const TNEA = {
                 "ST":"159.5"
             },
             {
-                "Branch-code":"EC",
-                "Branch Name":"Electronics and Communication Engineering",
+                "Branchcode":"EC",
+                "BranchName":"Electronics and Communication Engineering",
                 "OC":"180",
                 "BC":"177",
                 "BCM":"163.5",
@@ -3490,8 +3490,8 @@ const TNEA = {
                 "ST":"131"
             },
             {
-                "Branch-code":"CB",
-                "Branch Name":"Computer and communication Engineering",
+                "Branchcode":"CB",
+                "BranchName":"Computer and communication Engineering",
                 "OC":"186",
                 "BC":"180",
                 "BCM":"177.5",
@@ -3503,8 +3503,8 @@ const TNEA = {
                 "ST":""
             },
             {
-                "Branch-code":"EE",
-                "Branch Name":"Electrical And Electronics Engineering",
+                "Branchcode":"EE",
+                "BranchName":"Electrical And Electronics Engineering",
                 "OC":"176",
                 "BC":"173.725",
                 "BCM":"168.5",
@@ -3516,8 +3516,8 @@ const TNEA = {
                 "ST":""
             },
             {
-                "Branch-code":"IT",
-                "Branch Name":"Information Technology",
+                "Branchcode":"IT",
+                "BranchName":"Information Technology",
                 "OC":"184",
                 "BC":"181.5",
                 "BCM":"179",
@@ -3529,8 +3529,8 @@ const TNEA = {
                 "ST":""
             },
             {
-                "Branch-code":"ME",
-                "Branch Name":"Mechanical Engineering",
+                "Branchcode":"ME",
+                "BranchName":"Mechanical Engineering",
                 "OC":"165.5",
                 "BC":"158.5",
                 "BCM":"144",
@@ -3550,8 +3550,8 @@ const TNEA = {
         "location":"sathyamangalam, Erode - 638401",
         "courses":[
             {
-                "Branch-code":"AD",
-                "Branch Name":"Artificial Intelligence and Data Science",
+                "Branchcode":"AD",
+                "BranchName":"Artificial Intelligence and Data Science",
                 "OC":"189.33",
                 "BC":"185",
                 "BCM":"179",
@@ -3563,8 +3563,8 @@ const TNEA = {
                 "ST":""
             },
             {
-                "Branch-code":"AM",
-                "Branch Name":"Computer science and Engineering (artificial Intelligence and Machine Learning)",
+                "Branchcode":"AM",
+                "BranchName":"Computer science and Engineering (artificial Intelligence and Machine Learning)",
                 "OC":"185",
                 "BC":"181",
                 "BCM":"182.5",
@@ -3576,8 +3576,8 @@ const TNEA = {
                 "ST":""
             },
             {
-                "Branch-code":"AU",
-                "Branch Name":"Automobile Engineering",
+                "Branchcode":"AU",
+                "BranchName":"Automobile Engineering",
                 "OC":"144.5",
                 "BC":"134.5",
                 "BCM":"144",
@@ -3590,8 +3590,8 @@ const TNEA = {
             },
             {
                 
-                "Branch-code":"BM",
-                "Branch Name":"Bio Medical Engineering",
+                "Branchcode":"BM",
+                "BranchName":"Bio Medical Engineering",
                 "OC":"179.5",
                 "BC":"165.5",
                 "BCM":"171.45",
@@ -3603,8 +3603,8 @@ const TNEA = {
                 "ST":""
             },
             {
-                "Branch-code":"CE",
-                "Branch Name":"Civil Engineering",
+                "Branchcode":"CE",
+                "BranchName":"Civil Engineering",
                 "OC":"138.5",
                 "BC":"109",
                 "BCM":"130.5",
@@ -3616,8 +3616,8 @@ const TNEA = {
                 "ST":""
             },
             {
-                "Branch-code":"CS",
-                "Branch Name":"Computer Science And Engineering",
+                "Branchcode":"CS",
+                "BranchName":"Computer Science And Engineering",
                 "OC":"189.5",
                 "BC":"185.5",
                 "BCM":"186",
@@ -3629,8 +3629,8 @@ const TNEA = {
                 "ST":""
             },
             {
-                "Branch-code":"EC",
-                "Branch Name":"Electronics and Communication Engineering",
+                "Branchcode":"EC",
+                "BranchName":"Electronics and Communication Engineering",
                 "OC":"184.5",
                 "BC":"179",
                 "BCM":"176.67",
@@ -3642,8 +3642,8 @@ const TNEA = {
                 "ST":""
             },
             {
-                "Branch-code":"EE",
-                "Branch Name":"Electrical And Electronics Engineering",
+                "Branchcode":"EE",
+                "BranchName":"Electrical And Electronics Engineering",
                 "OC":"175.5",
                 "BC":"169",
                 "BCM":"",
@@ -3655,8 +3655,8 @@ const TNEA = {
                 "ST":""
             },
             {
-                "Branch-code":"IT",
-                "Branch Name":"Information Technology",
+                "Branchcode":"IT",
+                "BranchName":"Information Technology",
                 "OC":"186",
                 "BC":"182",
                 "BCM":"177.5",
@@ -3668,8 +3668,8 @@ const TNEA = {
                 "ST":""
             },
             {
-                "Branch-code":"ME",
-                "Branch Name":"Mechanical Engineering",
+                "Branchcode":"ME",
+                "BranchName":"Mechanical Engineering",
                 "OC":"156",
                 "BC":"142.5",
                 "BCM":"151",
@@ -3681,8 +3681,8 @@ const TNEA = {
                 "ST":""
             },
             {
-                "Branch-code":"RM",
-                "Branch Name":"Robotics and Automation",
+                "Branchcode":"RM",
+                "BranchName":"Robotics and Automation",
                 "OC":"173.5",
                 "BC":"166",
                 "BCM":"164.5",
@@ -3694,8 +3694,8 @@ const TNEA = {
                 "ST":""
             },
             {
-                "Branch-code":"SC",
-                "Branch Name":"Computer Science and Engineering (cyber Security)",
+                "Branchcode":"SC",
+                "BranchName":"Computer Science and Engineering (cyber Security)",
                 "OC":"184",
                 "BC":"180.5",
                 "BCM":"177",
@@ -4042,64 +4042,99 @@ const college_name = document.getElementById("college-name-display");
 var data = document.getElementById("table-data");
 var data_append = document.getElementById("table-child-append");
 var display = document.getElementById("display");
+let table = document.getElementById("table_body");
+let search_btn = document.getElementById("search-btn");
+let college_code ;
 
-
-
+// display name function
 
 function display_name(Cname){
+    console.log(Cname);
     college_name.value = Cname;
+
 }
-
-
-
 
 selection.onchange = function(event){
     var rc = event.target.options[event.target.selectedIndex].dataset.rc;
     var object = TNEA[`${rc}`];
     var Cname = object.name;
-    // display college name
+    college_code = rc;
     display_name(Cname);
-    var syntax = `<tr>
-                    <td>${object.courses[i].Branchcode}</td>
-                    <td>${object.courses[i].BranchName}</td>
-                    <td>${object.courses[i].OC}</td>
-                    <td>${object.courses[i].BC}</td>
-                    <td>${object.courses[i].Branchcode}</td>
-                    <td>${object.courses[i].Branchcode}</td>
-                    <td>${object.courses[i].Branchcode}</td>
-                    <td>${object.courses[i].Branchcode}</td>
-                    <td>${object.courses[i].Branchcode}</td>
-                    <td>${object.courses[i].Branchcode}</td>
-                    <td>${object.courses[i].Branchcode}</td>
-                </tr>`
+}
 
+// table append function
+
+
+function table_append(object , i){
+    console.log(object);
+    let length = object.courses.length;
     
-   
-   
+    
+        //create cell
+        let table = document.getElementById("table_body");
+        let row = document.createElement("tr");
+        let c1 = document.createElement("td");
+        let c2 = document.createElement("td");
+        let c3 = document.createElement("td");
+        let c4 = document.createElement("td");
+        let c5 = document.createElement("td");
+        let c6 = document.createElement("td");
+        let c7 = document.createElement("td");
+        let c8 = document.createElement("td");
+        let c9 = document.createElement("td");
+        let c10 = document.createElement("td");
+        let c11 = document.createElement("td");
+        let c12 = document.createElement("td");
+        // Insert data to cell
 
-    for(let i = 0;i<object.courses.length;i++){
-        data.innerHTML += `<tr>
-                                <td>${object.courses[i].Branchcode}</td>
-                                <td>${object.courses[i].BranchName}</td>
-                                <td>${object.courses[i].OC}</td>
-                                <td>${object.courses[i].BC}</td>
-                                <td>${object.courses[i].Branchcode}</td>
-                                <td>${object.courses[i].Branchcode}</td>
-                                <td>${object.courses[i].Branchcode}</td>
-                                <td>${object.courses[i].Branchcode}</td>
-                                <td>${object.courses[i].Branchcode}</td>
-                                <td>${object.courses[i].Branchcode}</td>
-                                <td>${object.courses[i].Branchcode}</td>
-                            </tr>`;
+        c1.innerHTML = `${object.rank}`;
+        c2.innerHTML = `${object.courses[i].Branchcode}`;
+        c3.innerHTML = `${object.courses[i].BranchName}`;
+        c4.innerHTML = `${object.courses[i].OC}`;
+        c5.innerHTML = `${object.courses[i].BC}`;
+        c6.innerHTML = `${object.courses[i].BCM}`;
+        c7.innerHTML = `${object.courses[i].MBC}`;
+        c8.innerHTML = `${object.courses[i].MBCDNC}`;
+        c9.innerHTML = `${object.courses[i].MBCV}`;
+        c10.innerHTML = `${object.courses[i].SC}`;
+        c11.innerHTML = `${object.courses[i].SCA}`;
+        c12.innerHTML = `${object.courses[i].ST}`;
+
+        // append data to cell
+        row.appendChild(c1);
+        row.appendChild(c2);
+        row.appendChild(c3);
+        row.appendChild(c4);
+        row.appendChild(c5);
+        row.appendChild(c6);
+        row.appendChild(c7);
+        row.appendChild(c8);
+        row.appendChild(c9);
+        row.appendChild(c10);
+        row.appendChild(c11);
+        row.appendChild(c12);
+        //append row to table
+
+        table.appendChild(row);
+    
+    
+}
+
+
+
+search_btn.onclick = ()=>{
+    
+    
+    var object = TNEA[`${college_code}`];
+    var length =object.courses.length;
+    for(let i = 0;i<length;i++){
+        table_append(object,i);
     }
-
-
-    // function for display table
-
-    // data.appendChild()
-
-
+    
 };
+
+
+
 
 
 

@@ -6,6 +6,10 @@
     box-sizing: border-box;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 :root{
     --light-red:#ed4961;
     --white:#fff;
@@ -62,7 +66,47 @@ nav{
     padding: 20px;
 }
 
-.home-para-cont input{
+.home-para-cont button{
+    border-radius: 4px;
+    background: var(--yellow);
+    border: none;
+    color: #fff;
+    text-align: center;
+    font-size: 32px;
+    padding: 16px;
+    
+    transition : all 0.5s;
+    cursor: pointer;
+    margin: 36px;
+    box-shadow: 0 10px 20px -8px rgba(0, 0, 0,.7);
+}
+
+.home-para-cont button{
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+
+.home-para-cont button:after{
+    content: '»';
+    position: absolute;
+    opacity: 0;
+    top: 14px;
+    right: -20px;
+    transition: 0.5s;
+}
+
+.home-para-cont button:hover{
+    padding-right: 40px;
+    padding-left: 8px;
+}
+
+.home-para-cont button:hover:after{
+    opacity: 1;
+    right: 10px;
+}
+/* .home-para-cont input{
     position: relative;
     padding: 20px 30px;
     background: var(--yellow);
@@ -74,8 +118,9 @@ nav{
     touch-action: manipulation;
     cursor: pointer;
     font-size: 15px;
-}
-.home-para-cont input:before {
+} */
+
+/* .home-para-cont input:before {
     background-color: initial;
     background-image: linear-gradient(#fff 0, rgba(255, 255, 255, 0) 100%);
     border-radius: 125px;
@@ -93,7 +138,7 @@ nav{
     box-shadow: rgba(255, 255, 255, .2) 0 3px 15px inset, rgba(0, 0, 0, .1) 0 3px 5px, rgba(0, 0, 0, .1) 0 10px 13px;
     transform: scale(1.05);
   }
-  
+   */
  
 /* display details part */
 
@@ -147,6 +192,20 @@ nav{
     overflow: scroll;
 }
 
+.search-div-btn{
+    text-align: center;
+    padding: 20px 30px 0 30px;
+}
+
+.search-div-btn button{
+    padding: 15px 35px;
+    border: 3px solid var(--white);
+    background: transparent;
+    color: var(--white);
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 20px;
+}
 
 /* search-table-data */
 
@@ -161,9 +220,27 @@ nav{
 
 table{
     width: 100%;
+    border: 2px solid var(--light-red);
+    padding: 20px 20px;
+
 }
 
-table ,tr ,th ,td{
-    border: 1px solid black;
-    
+tr , th , td{
+    margin: 10px 0;
+    padding: 20px 0;
+    text-align: center;
 }
+
+td:nth-child(odd){
+    background: var(--yellow);
+    color: var(--black);
+}
+td:nth-child(even){
+    background: var(--light-red);
+    color: var(--white);
+}
+/* table ,tr ,th ,td{
+    
+    
+} */
+
