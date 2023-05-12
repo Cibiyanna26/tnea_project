@@ -74,7 +74,6 @@ nav{
     text-align: center;
     font-size: 32px;
     padding: 16px;
-    
     transition : all 0.5s;
     cursor: pointer;
     margin: 36px;
@@ -147,6 +146,7 @@ nav{
     position: relative;
     padding: 100px 0;
     margin-bottom:20%;
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(161,255,255,1) 11.3%, rgba(6,255,255,1) 41.2%, rgba(0,216,216,1) 77.8% );
 }
   
 
@@ -220,24 +220,34 @@ nav{
 
 table{
     width: 100%;
-    border: 2px solid var(--light-red);
-    padding: 20px 20px;
-
+    border-radius:10px;
 }
 
-tr , th , td{
-    margin: 10px 0;
+
+#thead{
+    width: 100%;
+}
+
+
+
+th , td{
     padding: 20px 0;
     text-align: center;
+   
 }
 
-td:nth-child(odd){
-    background: var(--yellow);
+th{
+    background: #353048 !important;
+    color: var(--white);
+}
+
+tr:nth-child(odd){
+    background:#fffefe;
     color: var(--black);
 }
-td:nth-child(even){
-    background: var(--light-red);
-    color: var(--white);
+tr:nth-child(even){
+    background: #f7f7f6;
+    color: var(--black);
 }
 /* table ,tr ,th ,td{
     

@@ -4042,7 +4042,7 @@ const college_name = document.getElementById("college-name-display");
 var data = document.getElementById("table-data");
 var data_append = document.getElementById("table-child-append");
 var display = document.getElementById("display");
-let table = document.getElementById("table_body");
+// let table_body = document.getElementById("table-body");
 let search_btn = document.getElementById("search-btn");
 let college_code ;
 
@@ -4065,72 +4065,55 @@ selection.onchange = function(event){
 // table append function
 
 
-function table_append(object , i){
+function table_append(object , length){
     console.log(object);
-    let length = object.courses.length;
-    
-    
-        //create cell
-        let table = document.getElementById("table_body");
-        let row = document.createElement("tr");
-        let c1 = document.createElement("td");
-        let c2 = document.createElement("td");
-        let c3 = document.createElement("td");
-        let c4 = document.createElement("td");
-        let c5 = document.createElement("td");
-        let c6 = document.createElement("td");
-        let c7 = document.createElement("td");
-        let c8 = document.createElement("td");
-        let c9 = document.createElement("td");
-        let c10 = document.createElement("td");
-        let c11 = document.createElement("td");
-        let c12 = document.createElement("td");
-        // Insert data to cell
+    let table_body = document.getElementById("table-child-append");
+    table_body.innerHTML = `
+                            <thead id="thead">
+                                <tr>
+                                    <th>Rank</th>
+                                    <th>Branch-Code</th>
+                                    <th>Branch Name</th>
+                                    <th>OC</th>
+                                    <th>BC</th>
+                                    <th>BCM</th>
+                                    <th>MBC</th>
+                                    <th>MBCDNC</th>
+                                    <th>MBCV</th>
+                                    <th>SC</th>
+                                    <th>SCA</th>
+                                    <th>ST</th>
+                                </tr>
+                            </thead>
+                            <tbody id="table_body"></tbody>
+                            `
+    let table = document.getElementById("table_body");
+    for(let i =0;i<length;i++){
+        table.innerHTML += `<tr>
+                            <td>${object.rank}</td>
+                            <td>${object.courses[i].Branchcode}</td>
+                            <td>${object.courses[i].BranchName}</td>
+                            <td>${object.courses[i].OC}</td>
+                            <td>${object.courses[i].BC}</td>
+                            <td>${object.courses[i].BCM}</td>
+                            <td>${object.courses[i].MBC}</td>
+                            <td>${object.courses[i].MBCDNC}</td>
+                            <td>${object.courses[i].MBCV}</td>
+                            <td>${object.courses[i].SC}</td>
+                            <td>${object.courses[i].SCA}</td>
+                            <td>${object.courses[i].ST}</td>
+                        </tr>`
 
-        c1.innerHTML = `${object.rank}`;
-        c2.innerHTML = `${object.courses[i].Branchcode}`;
-        c3.innerHTML = `${object.courses[i].BranchName}`;
-        c4.innerHTML = `${object.courses[i].OC}`;
-        c5.innerHTML = `${object.courses[i].BC}`;
-        c6.innerHTML = `${object.courses[i].BCM}`;
-        c7.innerHTML = `${object.courses[i].MBC}`;
-        c8.innerHTML = `${object.courses[i].MBCDNC}`;
-        c9.innerHTML = `${object.courses[i].MBCV}`;
-        c10.innerHTML = `${object.courses[i].SC}`;
-        c11.innerHTML = `${object.courses[i].SCA}`;
-        c12.innerHTML = `${object.courses[i].ST}`;
 
-        // append data to cell
-        row.appendChild(c1);
-        row.appendChild(c2);
-        row.appendChild(c3);
-        row.appendChild(c4);
-        row.appendChild(c5);
-        row.appendChild(c6);
-        row.appendChild(c7);
-        row.appendChild(c8);
-        row.appendChild(c9);
-        row.appendChild(c10);
-        row.appendChild(c11);
-        row.appendChild(c12);
-        //append row to table
+        
+    }
 
-        table.appendChild(row);
-    
-    
 }
 
-
-
 search_btn.onclick = ()=>{
-    
-    
     var object = TNEA[`${college_code}`];
     var length =object.courses.length;
-    for(let i = 0;i<length;i++){
-        table_append(object,i);
-    }
-    
+    table_append(object,length);
 };
 
 
